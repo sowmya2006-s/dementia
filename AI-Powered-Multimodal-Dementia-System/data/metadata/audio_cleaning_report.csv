@@ -1,0 +1,229 @@
+file_path,class,original_format,decoder,decode_error,duration_seconds,original_sample_rate,output_sample_rate,channels,rms,peak,status,reason,cleaned_file
+dementia/Abe Burrows/AbeBurrows_5.wav,dementia,.wav,soundfile,,71.0196875,44100,16000,2,0.051498331129550934,0.5832381248474121,REVIEW,Too_long,dementia/Abe Burrows/AbeBurrows_5.wav
+dementia/Aileen Hernandez/aileenhernandez_0.wav,dementia,.wav,soundfile,,47.0,44100,16000,2,0.04474081099033356,0.25972360372543335,VALID,Passed_all_checks,dementia/Aileen Hernandez/aileenhernandez_0.wav
+dementia/Aileen Hernandez/aileenhernandez_5_1.wav,dementia,.wav,soundfile,,38.0,44100,16000,2,0.08808916062116623,0.5918947458267212,VALID,Passed_all_checks,dementia/Aileen Hernandez/aileenhernandez_5_1.wav
+dementia/Aileen Hernandez/aileenhernandez_5_2.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.04036451131105423,0.5051783919334412,REVIEW,Too_long,dementia/Aileen Hernandez/aileenhernandez_5_2.wav
+dementia/Alan Ramsey/alanramsey_10.wav,dementia,.wav,soundfile,,55.0,44100,16000,2,0.024291586130857468,0.3035040497779846,VALID,Passed_all_checks,dementia/Alan Ramsey/alanramsey_10.wav
+dementia/Allan Burns/AllanBurns_5.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.0402413047850132,0.4971349239349365,REVIEW,Too_long,dementia/Allan Burns/AllanBurns_5.wav
+dementia/Andrew Sachs/andrewsachs_10.wav,dementia,.wav,soundfile,,77.0,44100,16000,2,0.02205897495150566,0.314220130443573,REVIEW,Too_long,dementia/Andrew Sachs/andrewsachs_10.wav
+dementia/Andrew Sachs/andrewsachs_15.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.03319700434803963,0.6040669679641724,REVIEW,Too_long,dementia/Andrew Sachs/andrewsachs_15.wav
+dementia/Annette Michelson/annettemichelson_15.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.04530239477753639,0.4247588515281677,REVIEW,Too_long,dementia/Annette Michelson/annettemichelson_15.wav
+dementia/Antony Flew/antonyflew_10.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.05983453243970871,0.5772793889045715,REVIEW,Too_long,dementia/Antony Flew/antonyflew_10.wav
+dementia/Antony Flew/antonyflew_5_1.wav,dementia,.wav,soundfile,,73.0,44100,16000,2,0.09580615907907486,0.9590864181518555,REVIEW,Too_long,dementia/Antony Flew/antonyflew_5_1.wav
+dementia/Antony Flew/antonyflew_5_2.wav,dementia,.wav,soundfile,,26.0,44100,16000,2,0.1315893679857254,0.9162269234657288,VALID,Passed_all_checks,dementia/Antony Flew/antonyflew_5_2.wav
+dementia/B B King/bbking_0.wav,dementia,.wav,soundfile,,9.0,44100,16000,2,0.019818231463432312,0.13702337443828583,VALID,Passed_all_checks,dementia/B B King/bbking_0.wav
+dementia/B B King/bbking_10.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.023191528394818306,0.31521058082580566,REVIEW,Too_long,dementia/B B King/bbking_10.wav
+dementia/B B King/bbking_15.wav,dementia,.wav,soundfile,,78.0,44100,16000,2,0.06304523348808289,0.5678340196609497,REVIEW,Too_long,dementia/B B King/bbking_15.wav
+dementia/Barry Cohen/BarryCohen_5.wav,dementia,.wav,soundfile,,53.0226875,44100,16000,2,0.03466179966926575,0.18368694186210632,VALID,Passed_all_checks,dementia/Barry Cohen/BarryCohen_5.wav
+dementia/Ben Bradlee/BenBradlee_15.wav,dementia,.wav,soundfile,,60.0078125,44100,16000,2,0.050268203020095825,0.4400798976421356,REVIEW,Too_long,dementia/Ben Bradlee/BenBradlee_15.wav
+dementia/Ben Bradlee/BenBradlee_5.wav,dementia,.wav,soundfile,,34.0019375,44100,16000,2,0.10594122856855392,0.8661980032920837,VALID,Passed_all_checks,dementia/Ben Bradlee/BenBradlee_5.wav
+dementia/Bill Buckner/BillBuckner_10.wav,dementia,.wav,soundfile,,38.0013125,44100,16000,2,0.01577908918261528,0.1992015838623047,VALID,Passed_all_checks,dementia/Bill Buckner/BillBuckner_10.wav
+dementia/Bill Buckner/BillBuckner_15.wav,dementia,.wav,soundfile,,41.0065,44100,16000,2,0.01738051138818264,0.45560741424560547,VALID,Passed_all_checks,dementia/Bill Buckner/BillBuckner_15.wav
+dementia/Bill Buckner/BillBuckner_5.wav,dementia,.wav,soundfile,,29.0178125,44100,16000,2,0.02160872146487236,0.38822871446609497,VALID,Passed_all_checks,dementia/Bill Buckner/BillBuckner_5.wav
+dementia/Bobby Womack/BobbyWomack_0.wav,dementia,.wav,soundfile,,38.00575,44100,16000,2,0.09304139018058777,1.0310183763504028,VALID,Passed_all_checks,dementia/Bobby Womack/BobbyWomack_0.wav
+dementia/Casey Kasem/CaseyKasem_15.wav,dementia,.wav,soundfile,,50.0093125,44100,16000,2,0.08146121352910995,0.7427471876144409,VALID,Passed_all_checks,dementia/Casey Kasem/CaseyKasem_15.wav
+dementia/Casey Kasem/CaseyKasem_5.wav,dementia,.wav,soundfile,,11.005375,44100,16000,2,0.10741544514894485,0.6289587020874023,VALID,Passed_all_checks,dementia/Casey Kasem/CaseyKasem_5.wav
+dementia/Charles Bronson/CharlesBronson_10.wav,dementia,.wav,soundfile,,36.0149375,44100,16000,2,0.009761912748217583,0.07996316999197006,VALID,Passed_all_checks,dementia/Charles Bronson/CharlesBronson_10.wav
+dementia/Charles Bronson/CharlesBronson_15.wav,dementia,.wav,soundfile,,22.0025625,44100,16000,2,0.004315451253205538,0.061291828751564026,VALID,Passed_all_checks,dementia/Charles Bronson/CharlesBronson_15.wav
+dementia/Charles K Kao/CharlesKKao_0.wav,dementia,.wav,soundfile,,70.008375,44100,16000,2,0.06296642869710922,0.5809658169746399,REVIEW,Too_long,dementia/Charles K Kao/CharlesKKao_0.wav
+dementia/Charmian Carr/CharmianCarr_15.wav,dementia,.wav,soundfile,,110.0013125,44100,16000,2,0.051050636917352676,0.42125794291496277,REVIEW,Too_long,dementia/Charmian Carr/CharmianCarr_15.wav
+dementia/Charmian Carr/CharmianCarr_5.wav,dementia,.wav,soundfile,,46.0029375,44100,16000,2,0.03953533619642258,0.22845546901226044,VALID,Passed_all_checks,dementia/Charmian Carr/CharmianCarr_5.wav
+dementia/Dan Ingram/daningram_15.wav,dementia,.wav,soundfile,,46.0,44100,16000,2,0.11182500422000885,0.926734209060669,VALID,Passed_all_checks,dementia/Dan Ingram/daningram_15.wav
+dementia/David Milch/DavidMilch_10.wav,dementia,.wav,soundfile,,90.00075,44100,16000,2,0.028825106099247932,0.5932987332344055,REVIEW,Too_long,dementia/David Milch/DavidMilch_10.wav
+dementia/David Milch/DavidMilch_15.wav,dementia,.wav,soundfile,,90.0045,44100,16000,2,0.014409455470740795,0.13560013473033905,REVIEW,Too_long,dementia/David Milch/DavidMilch_15.wav
+dementia/David Prowse/DavidProwse_0.wav,dementia,.wav,soundfile,,45.0026875,44100,16000,2,0.06378572434186935,0.991841733455658,VALID,Passed_all_checks,dementia/David Prowse/DavidProwse_0.wav
+dementia/David Prowse/DavidProwse_10.wav,dementia,.wav,soundfile,,90.0084375,44100,16000,2,0.03323671966791153,0.4848400354385376,REVIEW,Too_long,dementia/David Prowse/DavidProwse_10.wav
+dementia/David Prowse/DavidProwse_5.wav,dementia,.wav,soundfile,,57.0006875,44100,16000,2,0.023080890998244286,0.22109338641166687,VALID,Passed_all_checks,dementia/David Prowse/DavidProwse_5.wav
+dementia/Dennis Moore/DennisMoore_5.wav,dementia,.wav,soundfile,,90.01625,44100,16000,2,0.042672786861658096,1.0141302347183228,REVIEW,Too_long,dementia/Dennis Moore/DennisMoore_5.wav
+dementia/Don Lane/DonLane_0.wav,dementia,.wav,soundfile,,35.0158125,44100,16000,2,0.1645304262638092,1.0382509231567383,VALID,Passed_all_checks,dementia/Don Lane/DonLane_0.wav
+dementia/Donald Sterling/DonaldSterling_5.wav,dementia,.wav,soundfile,,58.02025,44100,16000,2,0.04461038485169411,0.5587628483772278,VALID,Passed_all_checks,dementia/Donald Sterling/DonaldSterling_5.wav
+dementia/Emile Griffith/emilegriffith_5.wav,dementia,.wav,soundfile,,10.0,44100,16000,2,0.019589073956012726,0.14744266867637634,VALID,Passed_all_checks,dementia/Emile Griffith/emilegriffith_5.wav
+dementia/Ernie Sigley/ErnieSigley_15.wav,dementia,.wav,soundfile,,49.010375,44100,16000,2,0.17838186025619507,0.9563195705413818,VALID,Passed_all_checks,dementia/Ernie Sigley/ErnieSigley_15.wav
+dementia/Estelle Getty/EstelleGetty_15.wav,dementia,.wav,soundfile,,9.0204375,16000,16000,1,0.17407763004302979,1.0,VALID,Passed_all_checks,dementia/Estelle Getty/EstelleGetty_15.wav
+dementia/Evelyn Keyes/EvelynKeyes_0.wav,dementia,.wav,soundfile,,30.0165625,44100,16000,2,0.02726719155907631,0.16522887349128723,VALID,Passed_all_checks,dementia/Evelyn Keyes/EvelynKeyes_0.wav
+dementia/Evelyn Keyes/EvelynKeyes_10.wav,dementia,.wav,soundfile,,63.0178125,44100,16000,2,0.03183025121688843,0.27174249291419983,REVIEW,Too_long,dementia/Evelyn Keyes/EvelynKeyes_10.wav
+dementia/Gale Sayers/galesayers_0.wav,dementia,.wav,soundfile,,83.0,44100,16000,2,0.09992531687021255,0.9836734533309937,REVIEW,Too_long,dementia/Gale Sayers/galesayers_0.wav
+dementia/Gale Sayers/galesayers_5_1.wav,dementia,.wav,soundfile,,44.0,44100,16000,2,0.082560233771801,0.8543745279312134,VALID,Passed_all_checks,dementia/Gale Sayers/galesayers_5_1.wav
+dementia/Gale Sayers/galesayers_5_2.wav,dementia,.wav,soundfile,,53.0,44100,16000,2,0.04732634499669075,0.7750698924064636,VALID,Passed_all_checks,dementia/Gale Sayers/galesayers_5_2.wav
+dementia/George Klein/georgeklein_5_1.wav,dementia,.wav,soundfile,,13.0,44100,16000,2,0.2085740566253662,1.0081653594970703,VALID,Passed_all_checks,dementia/George Klein/georgeklein_5_1.wav
+dementia/George Klein/georgeklein_5_2.wav,dementia,.wav,soundfile,,63.0,44100,16000,2,0.11494413763284683,0.9309163093566895,REVIEW,Too_long,dementia/George Klein/georgeklein_5_2.wav
+dementia/George Klein/georgeklein_5_3.wav,dementia,.wav,soundfile,,16.0,44100,16000,2,0.11202777922153473,0.6791286468505859,VALID,Passed_all_checks,dementia/George Klein/georgeklein_5_3.wav
+dementia/George Robb/georgerobb_10.wav,dementia,.wav,soundfile,,22.0,44100,16000,2,0.02274886891245842,0.258195161819458,VALID,Passed_all_checks,dementia/George Robb/georgerobb_10.wav
+dementia/Greg Fingers Taylor/GregFingersTaylor_10.wav,dementia,.wav,soundfile,,90.002375,44100,16000,2,0.03346618637442589,0.3060378432273865,REVIEW,Too_long,dementia/Greg Fingers Taylor/GregFingersTaylor_10.wav
+dementia/Ian Holm/IanHolm_2.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.011191084049642086,0.13700604438781738,REVIEW,Too_long,dementia/Ian Holm/IanHolm_2.wav
+dementia/Ian McCaskill/ianmccaskill_15.wav,dementia,.wav,soundfile,,32.0,44100,16000,2,0.027630764991044998,0.3169184923171997,VALID,Passed_all_checks,dementia/Ian McCaskill/ianmccaskill_15.wav
+dementia/Iris Murdoch/IrisMurdoch_10.wav,dementia,.wav,soundfile,,58.0178125,44100,16000,2,0.016362015157938004,0.321047842502594,VALID,Passed_all_checks,dementia/Iris Murdoch/IrisMurdoch_10.wav
+dementia/Iris Murdoch/IrisMurdoch_5.wav,dementia,.wav,soundfile,,41.0220625,44100,16000,2,0.024506540969014168,0.2345842719078064,VALID,Passed_all_checks,dementia/Iris Murdoch/IrisMurdoch_5.wav
+dementia/Jack Hanna/JackHanna_10.wav,dementia,.wav,soundfile,,60.0115625,44100,16000,2,0.06451199948787689,0.3911500573158264,REVIEW,Too_long,dementia/Jack Hanna/JackHanna_10.wav
+dementia/Jack Hanna/JackHanna_15.wav,dementia,.wav,soundfile,,26.01425,44100,16000,2,0.0922892615199089,0.5496517419815063,VALID,Passed_all_checks,dementia/Jack Hanna/JackHanna_15.wav
+dementia/Jack Webster/JackWebster_10.wav,dementia,.wav,soundfile,,15.0075,44100,16000,2,0.02037886716425419,0.1751576066017151,VALID,Passed_all_checks,dementia/Jack Webster/JackWebster_10.wav
+dementia/Jack Webster/JackWebster_5.wav,dementia,.wav,soundfile,,20.0015625,44100,16000,2,0.038598496466875076,0.2482542097568512,VALID,Passed_all_checks,dementia/Jack Webster/JackWebster_5.wav
+dementia/James Stewart/JamesStewart_5.wav,dementia,.wav,soundfile,,47.0180625,44100,16000,2,0.012639270164072514,0.09309942275285721,VALID,Passed_all_checks,dementia/James Stewart/JamesStewart_5.wav
+dementia/Jeanne Little/JeanneLittle_10.wav,dementia,.wav,soundfile,,48.01025,44100,16000,2,0.09872879087924957,0.714545488357544,VALID,Passed_all_checks,dementia/Jeanne Little/JeanneLittle_10.wav
+dementia/Jesse Helms/jessehelms_0.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.08205629885196686,0.8269789218902588,REVIEW,Too_long,dementia/Jesse Helms/jessehelms_0.wav
+dementia/Jesse Helms/jessehelms_5_1.wav,dementia,.wav,soundfile,,38.0,44100,16000,2,0.022278979420661926,0.209213525056839,VALID,Passed_all_checks,dementia/Jesse Helms/jessehelms_5_1.wav
+dementia/Jesse Helms/jessehelms_5_2.wav,dementia,.wav,soundfile,,8.5,44100,16000,2,0.05931424722075462,0.926459550857544,VALID,Passed_all_checks,dementia/Jesse Helms/jessehelms_5_2.wav
+dementia/Jessejackson/Jessejackson_0.wav,dementia,.wav,soundfile,,42.0224375,44100,16000,2,0.04908320680260658,0.32012560963630676,VALID,Passed_all_checks,dementia/Jessejackson/Jessejackson_0.wav
+dementia/Jim McLean/jimmclean_10.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.02867487631738186,0.4981781840324402,REVIEW,Too_long,dementia/Jim McLean/jimmclean_10.wav
+dementia/Jim Neidhart/JimNeidhart_0.wav,dementia,.wav,soundfile,,25.005,44100,16000,2,0.18948720395565033,0.9450603723526001,VALID,Passed_all_checks,dementia/Jim Neidhart/JimNeidhart_0.wav
+dementia/Jim Neidhart/JimNeidhart_10.wav,dementia,.wav,soundfile,,17.01575,44100,16000,2,0.07051026821136475,0.8029561638832092,VALID,Passed_all_checks,dementia/Jim Neidhart/JimNeidhart_10.wav
+dementia/Jim Neidhart/JimNeidhart_15.wav,dementia,.wav,soundfile,,40.0114375,44100,16000,2,0.0588701069355011,0.5919566750526428,VALID,Passed_all_checks,dementia/Jim Neidhart/JimNeidhart_15.wav
+dementia/Jimmy Calderwood/JimmyCalderwood_5.wav,dementia,.wav,soundfile,,14.0145625,44100,16000,2,0.05493776872754097,0.6535577178001404,VALID,Passed_all_checks,dementia/Jimmy Calderwood/JimmyCalderwood_5.wav
+dementia/Jimmy Fratianno/JimmyFratianno_0.wav,dementia,.wav,soundfile,,100.0176875,44100,16000,2,0.010260520502924919,0.22130565345287323,REVIEW,Too_long,dementia/Jimmy Fratianno/JimmyFratianno_0.wav
+dementia/Joe Conley/JoeConley_0.wav,dementia,.wav,soundfile,,80.002125,44100,16000,2,0.03510875254869461,0.4286609888076782,REVIEW,Too_long,dementia/Joe Conley/JoeConley_0.wav
+dementia/John Mackey/johnmackey_15_1.wav,dementia,.wav,soundfile,,57.0,44100,16000,2,0.11169309914112091,0.4512895941734314,VALID,Passed_all_checks,dementia/John Mackey/johnmackey_15_1.wav
+dementia/John Mackey/johnmackey_15_2.wav,dementia,.wav,soundfile,,11.0,44100,16000,2,0.02591284178197384,0.22854280471801758,VALID,Passed_all_checks,dementia/John Mackey/johnmackey_15_2.wav
+dementia/Jonathan Miller/JonathanMiller_5.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.0552719309926033,1.005627155303955,REVIEW,Too_long,dementia/Jonathan Miller/JonathanMiller_5.wav
+dementia/Leon Redbone/leonredbone_15.wav,dementia,.wav,soundfile,,48.0,44100,16000,2,0.039729293435811996,0.6150596141815186,VALID,Passed_all_checks,dementia/Leon Redbone/leonredbone_15.wav
+dementia/Lerone Bennett Jr/LeroneBennettJr_10.wav,dementia,.wav,soundfile,,92.0099375,44100,16000,2,0.028038065880537033,0.19233109056949615,REVIEW,Too_long,dementia/Lerone Bennett Jr/LeroneBennettJr_10.wav
+dementia/Maureen Forrester/maureenforrester_5.wav,dementia,.wav,soundfile,,58.0,44100,16000,2,0.04409052059054375,0.4673160910606384,VALID,Passed_all_checks,dementia/Maureen Forrester/maureenforrester_5.wav
+dementia/Maurice Hinchey/mauricehinchey_0_1.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.013650448061525822,0.1916007399559021,REVIEW,Too_long,dementia/Maurice Hinchey/mauricehinchey_0_1.wav
+dementia/Maurice Hinchey/mauricehinchey_0_2.wav,dementia,.wav,soundfile,,16.0,44100,16000,2,0.05732308700680733,0.37112289667129517,VALID,Passed_all_checks,dementia/Maurice Hinchey/mauricehinchey_0_2.wav
+dementia/Maurice Hinchey/mauricehinchey_5.wav,dementia,.wav,soundfile,,89.0,44100,16000,2,0.028935326263308525,0.24334865808486938,REVIEW,Too_long,dementia/Maurice Hinchey/mauricehinchey_5.wav
+dementia/Omar Sharif/OmarSharif_0.wav,dementia,.wav,soundfile,,14.0079375,44100,16000,2,0.059139493852853775,0.46171391010284424,VALID,Passed_all_checks,dementia/Omar Sharif/OmarSharif_0.wav
+dementia/Omar Sharif/OmarSharif_10.wav,dementia,.wav,soundfile,,79.0128125,44100,16000,2,0.0825478658080101,0.3233877718448639,REVIEW,Too_long,dementia/Omar Sharif/OmarSharif_10.wav
+dementia/Otis Chandler/OtisChandler_5.wav,dementia,.wav,soundfile,,48.0094375,44100,16000,2,0.04119141399860382,0.4158996045589447,VALID,Passed_all_checks,dementia/Otis Chandler/OtisChandler_5.wav
+dementia/Pat Pariseau/patpariseau_10_1.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.09871333092451096,0.7520405054092407,REVIEW,Too_long,dementia/Pat Pariseau/patpariseau_10_1.wav
+dementia/Pat Pariseau/patpariseau_10_2.wav,dementia,.wav,soundfile,,34.0,44100,16000,2,0.06713472306728363,0.8646411299705505,VALID,Passed_all_checks,dementia/Pat Pariseau/patpariseau_10_2.wav
+dementia/Paul Hornung/paulhornung_0.wav,dementia,.wav,soundfile,,81.0,44100,16000,2,0.042514827102422714,0.3713747262954712,REVIEW,Too_long,dementia/Paul Hornung/paulhornung_0.wav
+dementia/Paul Hornung/paulhornung_10.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.02987886779010296,0.5964834690093994,REVIEW,Too_long,dementia/Paul Hornung/paulhornung_10.wav
+dementia/Pauline Phillips/PaulinePhillips_10.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.035734258592128754,0.366748571395874,REVIEW,Too_long,dementia/Pauline Phillips/PaulinePhillips_10.wav
+dementia/Peter Falk/PeterFalk_10.wav,dementia,.wav,soundfile,,21.015875,44100,16000,2,0.0553361251950264,0.34230318665504456,VALID,Passed_all_checks,dementia/Peter Falk/PeterFalk_10.wav
+dementia/Peter Falk/PeterFalk_15.wav,dementia,.wav,soundfile,,26.000375,44100,16000,2,0.06177820637822151,1.022667407989502,VALID,Passed_all_checks,dementia/Peter Falk/PeterFalk_15.wav
+dementia/Peter Max/PeterMax_10.wav,dementia,.wav,soundfile,,35.015875,44100,16000,2,0.02290341444313526,0.28904885053634644,VALID,Passed_all_checks,dementia/Peter Max/PeterMax_10.wav
+dementia/Peter Max/PeterMax_15.wav,dementia,.wav,soundfile,,20.015625,44100,16000,2,0.05605356767773628,0.35203152894973755,VALID,Passed_all_checks,dementia/Peter Max/PeterMax_15.wav
+dementia/Peter Reveen/peterreveen_15.wav,dementia,.wav,soundfile,,40.0,44100,16000,2,0.06367767602205276,0.6632023453712463,VALID,Passed_all_checks,dementia/Peter Reveen/peterreveen_15.wav
+dementia/Ralph Klein/ralphklein_5_1.wav,dementia,.wav,soundfile,,46.0,44100,16000,2,0.02180611342191696,0.28011614084243774,VALID,Passed_all_checks,dementia/Ralph Klein/ralphklein_5_1.wav
+dementia/Ralph Klein/ralphklein_5_2.wav,dementia,.wav,soundfile,,33.0,44100,16000,2,0.09290555119514465,0.9060348868370056,VALID,Passed_all_checks,dementia/Ralph Klein/ralphklein_5_2.wav
+dementia/Ray Dolby/RayDolby_0.wav,dementia,.wav,soundfile,,64.008375,44100,16000,2,0.06443008035421371,0.554663896560669,REVIEW,Too_long,dementia/Ray Dolby/RayDolby_0.wav
+dementia/Ray Dolby/RayDolby_10.wav,dementia,.wav,soundfile,,90.008375,44100,16000,2,0.10164722055196762,0.9623352885246277,REVIEW,Too_long,dementia/Ray Dolby/RayDolby_10.wav
+dementia/Ray Galton/RayGalton_5.wav,dementia,.wav,soundfile,,71.01175,44100,16000,2,0.03002961352467537,0.2604353427886963,REVIEW,Too_long,dementia/Ray Galton/RayGalton_5.wav
+dementia/Richard Gwyn/RichardGwyn_0.wav,dementia,.wav,soundfile,,43.002125,44100,16000,2,0.02074122428894043,0.16285401582717896,VALID,Passed_all_checks,dementia/Richard Gwyn/RichardGwyn_0.wav
+dementia/Richard Gwyn/RichardGwyn_5.wav,dementia,.wav,soundfile,,162.00375,44100,16000,2,0.04153471067547798,0.3417036533355713,REVIEW,Too_long,dementia/Richard Gwyn/RichardGwyn_5.wav
+dementia/Robert Anderson/RobertAnderson_10.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.030051985755562782,0.38785284757614136,REVIEW,Too_long,dementia/Robert Anderson/RobertAnderson_10.wav
+dementia/Robin Williams/RobinWilliams_0.wav,dementia,.wav,soundfile,,86.00675,44100,16000,2,0.06488632410764694,1.0104049444198608,REVIEW,Too_long,dementia/Robin Williams/RobinWilliams_0.wav
+dementia/Ronald Reagan/RonaldReagan_10.wav,dementia,.wav,soundfile,,90.00875,44100,16000,2,0.0715690329670906,0.6580693125724792,REVIEW,Too_long,dementia/Ronald Reagan/RonaldReagan_10.wav
+dementia/Ronald Reagan/RonaldReagan_5.wav,dementia,.wav,soundfile,,90.0161875,44100,16000,2,0.04567332565784454,0.38087666034698486,REVIEW,Too_long,dementia/Ronald Reagan/RonaldReagan_5.wav
+dementia/Ronan O_Rahilly/ronano_rahilly_15_1.wav,dementia,.wav,soundfile,,88.0,44100,16000,2,0.12253972142934799,0.622250497341156,REVIEW,Too_long,dementia/Ronan O_Rahilly/ronano_rahilly_15_1.wav
+dementia/Ronan O_Rahilly/ronano_rahilly_15_2.wav,dementia,.wav,soundfile,,24.0,44100,16000,2,0.05934738740324974,0.5546076893806458,VALID,Passed_all_checks,dementia/Ronan O_Rahilly/ronano_rahilly_15_2.wav
+dementia/Ross Mac Donald/RossMacDonald_10.wav,dementia,.wav,soundfile,,94.0283125,44100,16000,2,0.03684141859412193,0.27433720231056213,REVIEW,Too_long,dementia/Ross Mac Donald/RossMacDonald_10.wav
+dementia/Sparky Anderson/SparkyAnderson_0.wav,dementia,.wav,soundfile,,54.0039375,44100,16000,2,0.049140844494104385,0.42636638879776,VALID,Passed_all_checks,dementia/Sparky Anderson/SparkyAnderson_0.wav
+dementia/Stan Bowles/StanBowles_5.wav,dementia,.wav,soundfile,,26.0081875,44100,16000,2,0.05018880218267441,0.5908904075622559,VALID,Passed_all_checks,dementia/Stan Bowles/StanBowles_5.wav
+dementia/Stella Stevens/StellaStevens_15.wav,dementia,.wav,soundfile,,31.00075,44100,16000,2,0.11012803018093109,0.8422101140022278,VALID,Passed_all_checks,dementia/Stella Stevens/StellaStevens_15.wav
+dementia/Steve Lawrence/SteveLawrence_15.wav,dementia,.wav,soundfile,,102.0009375,44100,16000,2,0.2011965811252594,1.0237208604812622,REVIEW,Too_long,dementia/Steve Lawrence/SteveLawrence_15.wav
+dementia/Ted Turner/TedTurner_0.wav,dementia,.wav,soundfile,,16.0174375,44100,16000,2,0.028378229588270187,0.44374558329582214,VALID,Passed_all_checks,dementia/Ted Turner/TedTurner_0.wav
+dementia/Ted Turner/TedTurner_5.wav,dementia,.wav,soundfile,,37.0051875,44100,16000,2,0.0505615770816803,0.4936182200908661,VALID,Passed_all_checks,dementia/Ted Turner/TedTurner_5.wav
+dementia/Teresa Gorman/TeresaGorman_10.wav,dementia,.wav,soundfile,,16.022875,44100,16000,2,0.050127025693655014,0.31236907839775085,VALID,Passed_all_checks,dementia/Teresa Gorman/TeresaGorman_10.wav
+dementia/Terry Jones/terryjones_5.wav,dementia,.wav,soundfile,,44.0,44100,16000,2,0.04284771531820297,0.32105737924575806,VALID,Passed_all_checks,dementia/Terry Jones/terryjones_5.wav
+dementia/Terry Pratchett/TerryPratchett_0.wav,dementia,.wav,soundfile,,80.0089375,44100,16000,2,0.037863608449697495,0.6274621486663818,REVIEW,Too_long,dementia/Terry Pratchett/TerryPratchett_0.wav
+dementia/Terry Pratchett/TerryPratchett_5.wav,dementia,.wav,soundfile,,64.0184375,44100,16000,2,0.035877522081136703,0.5540196895599365,REVIEW,Too_long,dementia/Terry Pratchett/TerryPratchett_5.wav
+dementia/Thomas Dorsey/thomasdorsey_0.wav,dementia,.wav,soundfile,,18.0,44100,16000,2,0.0366622731089592,0.22140339016914368,VALID,Passed_all_checks,dementia/Thomas Dorsey/thomasdorsey_0.wav
+dementia/Tim Conway/TimConway_10.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.03031589835882187,0.5146823525428772,REVIEW,Too_long,dementia/Tim Conway/TimConway_10.wav
+dementia/Tim Conway/TimConway_5.wav,dementia,.wav,soundfile,,43.022625,44100,16000,2,0.03918864205479622,0.4253132939338684,VALID,Passed_all_checks,dementia/Tim Conway/TimConway_5.wav
+dementia/Tony Bennett/TonyBennett_0.wav,dementia,.wav,soundfile,,27.008,44100,16000,2,0.05591493099927902,0.4840303659439087,VALID,Passed_all_checks,dementia/Tony Bennett/TonyBennett_0.wav
+dementia/Tony Bennett/TonyBennett_15.wav,dementia,.wav,soundfile,,86.0038125,44100,16000,2,0.046769484877586365,0.5566726922988892,REVIEW,Too_long,dementia/Tony Bennett/TonyBennett_15.wav
+dementia/Tony Parkes/TonyParkes_10.wav,dementia,.wav,soundfile,,48.018875,44100,16000,2,0.040555328130722046,0.34179747104644775,VALID,Passed_all_checks,dementia/Tony Parkes/TonyParkes_10.wav
+dementia/Tony Parkes/TonyParkes_5.wav,dementia,.wav,soundfile,,33.011125,44100,16000,2,0.00440579280257225,0.0710565447807312,VALID,Passed_all_checks,dementia/Tony Parkes/TonyParkes_5.wav
+dementia/Trevor Peacock/TrevorPeacock_5.wav,dementia,.wav,soundfile,,34.01575,44100,16000,2,0.056883517652750015,0.8829767107963562,VALID,Passed_all_checks,dementia/Trevor Peacock/TrevorPeacock_5.wav
+dementia/Unita Blackwell/UnitaBlackwell_15.wav,dementia,.wav,soundfile,,90.0005625,44100,16000,2,0.11753344535827637,1.0059758424758911,REVIEW,Too_long,dementia/Unita Blackwell/UnitaBlackwell_15.wav
+dementia/Vampiro/Vampiro_0.wav,dementia,.wav,soundfile,,100.0009375,44100,16000,2,0.04317717254161835,0.8686867952346802,REVIEW,Too_long,dementia/Vampiro/Vampiro_0.wav
+dementia/Vampiro/Vampiro_5.wav,dementia,.wav,soundfile,,39.0131875,44100,16000,2,0.023863283917307854,0.2778199017047882,VALID,Passed_all_checks,dementia/Vampiro/Vampiro_5.wav
+dementia/Viv Nicholson/vivnicholson_5.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.01795080117881298,0.5736154317855835,REVIEW,Too_long,dementia/Viv Nicholson/vivnicholson_5.wav
+dementia/Woody Durham/woodydurham_0_2.wav,dementia,.wav,soundfile,,90.0,44100,16000,2,0.012626657262444496,0.3456377387046814,REVIEW,Too_long,dementia/Woody Durham/woodydurham_0_2.wav
+nodementia/Angela Lansbury/Angela Lansbury_3.wav,nodementia,.wav,soundfile,,48.0,44100,16000,2,0.04474485665559769,0.4335896372795105,VALID,Passed_all_checks,nodementia/Angela Lansbury/Angela Lansbury_3.wav
+nodementia/Barbra Streisand/BarbraStreisand_1.wav,nodementia,.wav,soundfile,,32.0,44100,16000,2,0.010598956607282162,0.1950402706861496,VALID,Passed_all_checks,nodementia/Barbra Streisand/BarbraStreisand_1.wav
+nodementia/Barry Levinson/BarryLevinson_1.wav,nodementia,.wav,soundfile,,45.0,44100,16000,2,0.03820688650012016,0.37335866689682007,VALID,Passed_all_checks,nodementia/Barry Levinson/BarryLevinson_1.wav
+nodementia/Barry Levinson/BarryLevinson_2.wav,nodementia,.wav,soundfile,,56.0,44100,16000,2,0.04359306022524834,0.36080947518348694,VALID,Passed_all_checks,nodementia/Barry Levinson/BarryLevinson_2.wav
+nodementia/Barry Levinson/BarryLevinson_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.052986662834882736,0.8238416910171509,REVIEW,Too_long,nodementia/Barry Levinson/BarryLevinson_3.wav
+nodementia/Bernie Sanders/BernieSanders_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.07420887798070908,0.5273974537849426,REVIEW,Too_long,nodementia/Bernie Sanders/BernieSanders_3.wav
+nodementia/Bill Cosby/BillCosby_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.039333075284957886,0.2540159523487091,REVIEW,Too_long,nodementia/Bill Cosby/BillCosby_1.wav
+nodementia/Bill Wyman/BillWyman_1.wav,nodementia,.wav,soundfile,,26.0,44100,16000,2,0.032114993780851364,0.20226940512657166,VALID,Passed_all_checks,nodementia/Bill Wyman/BillWyman_1.wav
+nodementia/Bill Wyman/BillWyman_3.wav,nodementia,.wav,soundfile,,54.0,44100,16000,2,0.023689212277531624,0.24888138473033905,VALID,Passed_all_checks,nodementia/Bill Wyman/BillWyman_3.wav
+nodementia/Charlie Watts/CharlieWatts_1.wav,nodementia,.wav,soundfile,,84.0,44100,16000,2,0.03820793703198433,0.2055964171886444,REVIEW,Too_long,nodementia/Charlie Watts/CharlieWatts_1.wav
+nodementia/Christopher Plummer/christopher plummer_2.wav,nodementia,.wav,soundfile,,46.0,44100,16000,2,0.13018450140953064,0.8487852811813354,VALID,Passed_all_checks,nodementia/Christopher Plummer/christopher plummer_2.wav
+nodementia/Dionne Warwick/DionneWarwick_1.wav,nodementia,.wav,soundfile,,82.0,44100,16000,2,0.2156793475151062,1.0496528148651123,REVIEW,Too_long,nodementia/Dionne Warwick/DionneWarwick_1.wav
+nodementia/Dionne Warwick/DionneWarwick_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.03219008818268776,0.32155901193618774,REVIEW,Too_long,nodementia/Dionne Warwick/DionneWarwick_3.wav
+nodementia/Dominic Chianese/DominicChianese_3.wav,nodementia,.wav,soundfile,,42.0,44100,16000,2,0.006122154649347067,0.11913170665502548,VALID,Passed_all_checks,nodementia/Dominic Chianese/DominicChianese_3.wav
+nodementia/George Clinton/GeorgeClinton_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.0461401529610157,0.5676746368408203,REVIEW,Too_long,nodementia/George Clinton/GeorgeClinton_3.wav
+nodementia/Harry Belafonte/HarryBelafonte_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.023955967277288437,0.24798427522182465,REVIEW,Too_long,nodementia/Harry Belafonte/HarryBelafonte_1.wav
+nodementia/Harry Belafonte/HarryBelafonte_2.wav,nodementia,.wav,soundfile,,68.0,44100,16000,2,0.03390587866306305,0.4468075633049011,REVIEW,Too_long,nodementia/Harry Belafonte/HarryBelafonte_2.wav
+nodementia/Harry Belafonte/HarryBelafonte_3.wav,nodementia,.wav,soundfile,,65.0,44100,16000,2,0.03777617961168289,0.3710170090198517,REVIEW,Too_long,nodementia/Harry Belafonte/HarryBelafonte_3.wav
+nodementia/James Brolin/JamesBrolin_1.wav,nodementia,.wav,soundfile,,51.0,44100,16000,2,0.03549404442310333,0.5307931900024414,VALID,Passed_all_checks,nodementia/James Brolin/JamesBrolin_1.wav
+nodementia/James Caan/JamesCaan_2.wav,nodementia,.wav,soundfile,,33.0,44100,16000,2,0.05876151844859123,0.6304460763931274,VALID,Passed_all_checks,nodementia/James Caan/JamesCaan_2.wav
+nodementia/James Cromwell/JamesCromwell_3.wav,nodementia,.wav,soundfile,,67.0,44100,16000,2,0.02858516201376915,0.377248078584671,REVIEW,Too_long,nodementia/James Cromwell/JamesCromwell_3.wav
+nodementia/James Earl Jones/james earl jones_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.03752630203962326,0.4553929567337036,REVIEW,Too_long,nodementia/James Earl Jones/james earl jones_1.wav
+nodementia/Jerry Lewis/JerryLewis1.wav,nodementia,.wav,soundfile,,79.0,44100,16000,2,0.022624703124165535,0.21730145812034607,REVIEW,Too_long,nodementia/Jerry Lewis/JerryLewis1.wav
+nodementia/Jerry Lewis/JerryLewis2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.05067932605743408,0.6057061553001404,REVIEW,Too_long,nodementia/Jerry Lewis/JerryLewis2.wav
+nodementia/Jimmy Carter/Jimmy carter_2.wav,nodementia,.wav,soundfile,,36.0,44100,16000,2,0.03462915122509003,0.3689219653606415,VALID,Passed_all_checks,nodementia/Jimmy Carter/Jimmy carter_2.wav
+nodementia/Joe Pesci/JoePesci_1.wav,nodementia,.wav,soundfile,,27.0,44100,16000,2,0.04091076925396919,0.24562764167785645,VALID,Passed_all_checks,nodementia/Joe Pesci/JoePesci_1.wav
+nodementia/Joe Pesci/JoePesci_2.wav,nodementia,.wav,soundfile,,69.0,44100,16000,2,0.058752067387104034,0.9167124032974243,REVIEW,Too_long,nodementia/Joe Pesci/JoePesci_2.wav
+nodementia/Joe Pesci/JoePesci_3.wav,nodementia,.wav,soundfile,,46.0,44100,16000,2,0.04340379312634468,0.2800814211368561,VALID,Passed_all_checks,nodementia/Joe Pesci/JoePesci_3.wav
+nodementia/Judi Dench/Judi Dench_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.0671144500374794,0.8919861316680908,REVIEW,Too_long,nodementia/Judi Dench/Judi Dench_2.wav
+nodementia/Judi Dench/Judi Dench_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.04010278731584549,0.5869691967964172,REVIEW,Too_long,nodementia/Judi Dench/Judi Dench_3.wav
+nodementia/Kenny Rogers/KennyRogers_1.wav,nodementia,.wav,soundfile,,24.0,44100,16000,2,0.03877892717719078,0.4002944529056549,VALID,Passed_all_checks,nodementia/Kenny Rogers/KennyRogers_1.wav
+nodementia/Kenny Rogers/KennyRogers_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.05554044246673584,0.6014866232872009,REVIEW,Too_long,nodementia/Kenny Rogers/KennyRogers_3.wav
+nodementia/Kirk Douglas/Kirk Douglas_1.wav,nodementia,.wav,soundfile,,61.0,44100,16000,2,0.019697146490216255,0.23319965600967407,REVIEW,Too_long,nodementia/Kirk Douglas/Kirk Douglas_1.wav
+nodementia/Kirk Douglas/Kirk Douglas_2.wav,nodementia,.wav,soundfile,,71.0,44100,16000,2,0.02056574635207653,0.22818472981452942,REVIEW,Too_long,nodementia/Kirk Douglas/Kirk Douglas_2.wav
+nodementia/Kirk Douglas/Kirk Douglas_3.wav,nodementia,.wav,soundfile,,30.0,44100,16000,2,0.0661047026515007,0.49609559774398804,VALID,Passed_all_checks,nodementia/Kirk Douglas/Kirk Douglas_3.wav
+nodementia/Line Renaud/LineRenaud_1.wav,nodementia,.wav,soundfile,,31.0,44100,16000,2,0.03804110363125801,0.3645762801170349,VALID,Passed_all_checks,nodementia/Line Renaud/LineRenaud_1.wav
+nodementia/Line Renaud/LineRenaud_3.wav,nodementia,.wav,soundfile,,25.0,44100,16000,2,0.042106226086616516,0.34707266092300415,VALID,Passed_all_checks,nodementia/Line Renaud/LineRenaud_3.wav
+nodementia/Max von Sydow/MaxvonSydow_1.wav,nodementia,.wav,soundfile,,42.0,44100,16000,2,0.013087877072393894,0.12168151140213013,VALID,Passed_all_checks,nodementia/Max von Sydow/MaxvonSydow_1.wav
+nodementia/Mel brooks/Mel brooks_1.wav,nodementia,.wav,soundfile,,35.0,44100,16000,2,0.028714053332805634,0.18277128040790558,VALID,Passed_all_checks,nodementia/Mel brooks/Mel brooks_1.wav
+nodementia/Mel brooks/Mel brooks_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.046089235693216324,0.2933514714241028,REVIEW,Too_long,nodementia/Mel brooks/Mel brooks_2.wav
+nodementia/Mel brooks/Mel brooks_3.wav,nodementia,.wav,soundfile,,25.0,44100,16000,2,0.05113226920366287,0.36255940794944763,VALID,Passed_all_checks,nodementia/Mel brooks/Mel brooks_3.wav
+nodementia/Michael Dukakis/MichaelDukakis_1.wav,nodementia,.wav,soundfile,,46.0,44100,16000,2,0.01527786161750555,0.18707454204559326,VALID,Passed_all_checks,nodementia/Michael Dukakis/MichaelDukakis_1.wav
+nodementia/Michael Dukakis/MichaelDukakis_3.wav,nodementia,.wav,soundfile,,89.0,44100,16000,2,0.028066951781511307,0.264500230550766,REVIEW,Too_long,nodementia/Michael Dukakis/MichaelDukakis_3.wav
+nodementia/Michael Gambon/MichaelGambon_2.wav,nodementia,.wav,soundfile,,47.0,44100,16000,2,0.02705080434679985,0.22362706065177917,VALID,Passed_all_checks,nodementia/Michael Gambon/MichaelGambon_2.wav
+nodementia/Michael Gambon/MichaelGambon_3.wav,nodementia,.wav,soundfile,,67.0,44100,16000,2,0.061978623270988464,0.6998621225357056,REVIEW,Too_long,nodementia/Michael Gambon/MichaelGambon_3.wav
+nodementia/Mireille Darc/MireilleDarc_3.wav,nodementia,.wav,soundfile,,56.0,44100,16000,2,0.04297850653529167,0.3656167984008789,VALID,Passed_all_checks,nodementia/Mireille Darc/MireilleDarc_3.wav
+nodementia/Morgen Freeman/Morgen Freeman_1.wav,nodementia,.wav,soundfile,,65.0,44100,16000,2,0.08504842221736908,0.9854617118835449,REVIEW,Too_long,nodementia/Morgen Freeman/Morgen Freeman_1.wav
+nodementia/Morgen Freeman/Morgen Freeman_2.wav,nodementia,.wav,soundfile,,85.0,44100,16000,2,0.030488673597574234,0.23743107914924622,REVIEW,Too_long,nodementia/Morgen Freeman/Morgen Freeman_2.wav
+nodementia/Morgen Freeman/Morgen Freeman_3.wav,nodementia,.wav,soundfile,,38.0,44100,16000,2,0.023297248408198357,0.28153207898139954,VALID,Passed_all_checks,nodementia/Morgen Freeman/Morgen Freeman_3.wav
+nodementia/Nick Nolte/NickNolte_1.wav,nodementia,.wav,soundfile,,60.0,44100,16000,2,0.0454452820122242,0.6152347922325134,VALID,Passed_all_checks,nodementia/Nick Nolte/NickNolte_1.wav
+nodementia/Nick Nolte/NickNolte_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.04002176225185394,0.40586352348327637,REVIEW,Too_long,nodementia/Nick Nolte/NickNolte_2.wav
+nodementia/Nick Nolte/NickNolte_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.023643599823117256,0.5294569134712219,REVIEW,Too_long,nodementia/Nick Nolte/NickNolte_3.wav
+nodementia/Patrick Stewart/Patrick Stewart_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.24110400676727295,1.1909046173095703,REVIEW,Too_long,nodementia/Patrick Stewart/Patrick Stewart_1.wav
+nodementia/Patrick Stewart/Patrick Stewart_2.wav,nodementia,.wav,soundfile,,67.0,44100,16000,2,0.029633520171046257,0.35038620233535767,REVIEW,Too_long,nodementia/Patrick Stewart/Patrick Stewart_2.wav
+nodementia/Patrick Stewart/Patrick Stewart_3.wav,nodementia,.wav,soundfile,,90.1,44100,16000,2,0.04507657513022423,0.8463199734687805,REVIEW,Too_long,nodementia/Patrick Stewart/Patrick Stewart_3.wav
+nodementia/Paul McCartney/PaulMcCartney_3.wav,nodementia,.wav,soundfile,,89.8,44100,16000,2,0.036954037845134735,0.3990994989871979,REVIEW,Too_long,nodementia/Paul McCartney/PaulMcCartney_3.wav
+nodementia/Paul Sorvino/PaulSorvino_3.wav,nodementia,.wav,soundfile,,29.0,44100,16000,2,0.02906878851354122,0.24341082572937012,VALID,Passed_all_checks,nodementia/Paul Sorvino/PaulSorvino_3.wav
+nodementia/Paul Verhoeven/PaulVerhoeven_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.04725402221083641,0.35451164841651917,REVIEW,Too_long,nodementia/Paul Verhoeven/PaulVerhoeven_1.wav
+nodementia/Paul Verhoeven/PaulVerhoeven_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.022578561678528786,0.7950577735900879,REVIEW,Too_long,nodementia/Paul Verhoeven/PaulVerhoeven_3.wav
+nodementia/Peter Fonda/PeterFonda_2.wav,nodementia,.wav,soundfile,,31.8,44100,16000,2,0.0914086252450943,0.6759718656539917,VALID,Passed_all_checks,nodementia/Peter Fonda/PeterFonda_2.wav
+nodementia/Peter Fonda/PeterFonda_3.wav,nodementia,.wav,soundfile,,55.0,44100,16000,2,0.06555487215518951,0.7636004686355591,VALID,Passed_all_checks,nodementia/Peter Fonda/PeterFonda_3.wav
+nodementia/Philip Glass/PhilipGlass_1.wav,nodementia,.wav,soundfile,,28.0,44100,16000,2,0.03605710715055466,0.22450527548789978,VALID,Passed_all_checks,nodementia/Philip Glass/PhilipGlass_1.wav
+nodementia/Philip Glass/PhilipGlass_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.10767483711242676,0.9939257502555847,REVIEW,Too_long,nodementia/Philip Glass/PhilipGlass_3.wav
+nodementia/Prince Philip/Prince Philip_1.wav,nodementia,.wav,soundfile,,42.0,44100,16000,2,0.05283163860440254,0.5223122835159302,VALID,Passed_all_checks,nodementia/Prince Philip/Prince Philip_1.wav
+nodementia/Prince Philip/Prince Philip_2.wav,nodementia,.wav,soundfile,,70.0,44100,16000,2,0.06879924982786179,0.5213632583618164,REVIEW,Too_long,nodementia/Prince Philip/Prince Philip_2.wav
+nodementia/Ralph Lauren/RalphLauren_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.026154376566410065,0.3336632549762726,REVIEW,Too_long,nodementia/Ralph Lauren/RalphLauren_2.wav
+nodementia/Raquel Welch/RaquelWelch_1.wav,nodementia,.wav,soundfile,,29.0,44100,16000,2,0.0301229078322649,0.2199437916278839,VALID,Passed_all_checks,nodementia/Raquel Welch/RaquelWelch_1.wav
+nodementia/Raquel Welch/RaquelWelch_2.wav,nodementia,.wav,soundfile,,28.0,44100,16000,2,0.12750551104545593,1.0136847496032715,VALID,Passed_all_checks,nodementia/Raquel Welch/RaquelWelch_2.wav
+nodementia/Raquel Welch/RaquelWelch_3.wav,nodementia,.wav,soundfile,,28.0,44100,16000,2,0.020652147009968758,0.14604198932647705,VALID,Passed_all_checks,nodementia/Raquel Welch/RaquelWelch_3.wav
+nodementia/Richard Donner/RichardDonner_2.wav,nodementia,.wav,soundfile,,84.0,44100,16000,2,0.05925365537405014,0.4002798795700073,REVIEW,Too_long,nodementia/Richard Donner/RichardDonner_2.wav
+nodementia/Richard Donner/RichardDonner_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.0797436535358429,1.1350196599960327,REVIEW,Too_long,nodementia/Richard Donner/RichardDonner_3.wav
+nodementia/Robert De Niro/RobertDeNiro_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.027913525700569153,0.2954477071762085,REVIEW,Too_long,nodementia/Robert De Niro/RobertDeNiro_1.wav
+nodementia/Robert De Niro/RobertDeNiro_2.wav,nodementia,.wav,soundfile,,68.0,44100,16000,2,0.15977220237255096,1.0058943033218384,REVIEW,Too_long,nodementia/Robert De Niro/RobertDeNiro_2.wav
+nodementia/Robert Vaughn/RobertVaughn_1.wav,nodementia,.wav,soundfile,,83.0,44100,16000,2,0.046445053070783615,0.571717381477356,REVIEW,Too_long,nodementia/Robert Vaughn/RobertVaughn_1.wav
+nodementia/Robert Vaughn/RobertVaughn_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.0210868027061224,0.39128968119621277,REVIEW,Too_long,nodementia/Robert Vaughn/RobertVaughn_2.wav
+nodementia/Robert Vaughn/RobertVaughn_3.wav,nodementia,.wav,soundfile,,71.0,44100,16000,2,0.03430846333503723,0.5298645496368408,REVIEW,Too_long,nodementia/Robert Vaughn/RobertVaughn_3.wav
+nodementia/Robert Wagner/RobertWagner_3.wav,nodementia,.wav,soundfile,,37.0,44100,16000,2,0.03253826126456261,0.345154345035553,VALID,Passed_all_checks,nodementia/Robert Wagner/RobertWagner_3.wav
+nodementia/Roger Waters/RogerWaters_2.wav,nodementia,.wav,soundfile,,65.9,44100,16000,2,0.03377135097980499,0.6107573509216309,REVIEW,Too_long,nodementia/Roger Waters/RogerWaters_2.wav
+nodementia/Roger Waters/RogerWaters_3.wav,nodementia,.wav,soundfile,,52.0,44100,16000,2,0.039798423647880554,0.4639703035354614,VALID,Passed_all_checks,nodementia/Roger Waters/RogerWaters_3.wav
+nodementia/Rupert Murdoch/RupertMurdoch_1.wav,nodementia,.wav,soundfile,,78.0,44100,16000,2,0.12589025497436523,0.9253007173538208,REVIEW,Too_long,nodementia/Rupert Murdoch/RupertMurdoch_1.wav
+nodementia/Rupert Murdoch/RupertMurdoch_2.wav,nodementia,.wav,soundfile,,28.0,44100,16000,2,0.020035414025187492,0.3820112943649292,VALID,Passed_all_checks,nodementia/Rupert Murdoch/RupertMurdoch_2.wav
+nodementia/Rupert Murdoch/RupertMurdoch_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.042148787528276443,0.846369743347168,REVIEW,Too_long,nodementia/Rupert Murdoch/RupertMurdoch_3.wav
+nodementia/Stan Lee/Stan Lee_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.02836381271481514,0.29008954763412476,REVIEW,Too_long,nodementia/Stan Lee/Stan Lee_1.wav
+nodementia/Stan Lee/Stan Lee_2.wav,nodementia,.wav,soundfile,,86.0,44100,16000,2,0.13261808454990387,0.861685037612915,REVIEW,Too_long,nodementia/Stan Lee/Stan Lee_2.wav
+nodementia/Stan Lee/Stan Lee_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.019786346703767776,0.2547587454319,REVIEW,Too_long,nodementia/Stan Lee/Stan Lee_3.wav
+nodementia/Terry Gilliam/TerryGilliam_1.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.0832594484090805,0.6301857233047485,REVIEW,Too_long,nodementia/Terry Gilliam/TerryGilliam_1.wav
+nodementia/Terry Gilliam/TerryGilliam_2.wav,nodementia,.wav,soundfile,,57.0,44100,16000,2,0.05257994681596756,0.3239986300468445,VALID,Passed_all_checks,nodementia/Terry Gilliam/TerryGilliam_2.wav
+nodementia/Terry Gilliam/TerryGilliam_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.05034918710589409,0.32585179805755615,REVIEW,Too_long,nodementia/Terry Gilliam/TerryGilliam_3.wav
+nodementia/Terry Riley/TerryRiley_2.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.023429734632372856,0.5231828689575195,REVIEW,Too_long,nodementia/Terry Riley/TerryRiley_2.wav
+nodementia/Terry Riley/TerryRiley_3.wav,nodementia,.wav,soundfile,,83.0,44100,16000,2,0.09960213303565979,0.843981146812439,REVIEW,Too_long,nodementia/Terry Riley/TerryRiley_3.wav
+nodementia/Warren Buffett/Warren Buffett_2.wav,nodementia,.wav,soundfile,,56.0,44100,16000,2,0.0597367137670517,0.2712467908859253,VALID,Passed_all_checks,nodementia/Warren Buffett/Warren Buffett_2.wav
+nodementia/Warren Buffett/WarrenBuffett_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.005672760307788849,0.07045720517635345,REVIEW,Too_long,nodementia/Warren Buffett/WarrenBuffett_3.wav
+nodementia/William Shatner/WilliamShatner_1.wav,nodementia,.wav,soundfile,,68.0,44100,16000,2,0.06967224180698395,0.7966690063476562,REVIEW,Too_long,nodementia/William Shatner/WilliamShatner_1.wav
+nodementia/William Shatner/WilliamShatner_3.wav,nodementia,.wav,soundfile,,90.0,44100,16000,2,0.08321153372526169,0.6896687746047974,REVIEW,Too_long,nodementia/William Shatner/WilliamShatner_3.wav
+nodementia/Yoko Ono/YokoOno_1.wav,nodementia,.wav,soundfile,,30.9,44100,16000,2,0.01876748725771904,0.1573152095079422,VALID,Passed_all_checks,nodementia/Yoko Ono/YokoOno_1.wav
+nodementia/Yoko Ono/YokoOno_2.wav,nodementia,.wav,soundfile,,23.0,44100,16000,2,0.028471078723669052,0.2797444760799408,VALID,Passed_all_checks,nodementia/Yoko Ono/YokoOno_2.wav
+nodementia/Yoko Ono/YokoOno_3.wav,nodementia,.wav,soundfile,,29.0,44100,16000,2,0.03217348828911781,0.27816009521484375,VALID,Passed_all_checks,nodementia/Yoko Ono/YokoOno_3.wav

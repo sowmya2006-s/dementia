@@ -1,0 +1,61 @@
+# =========================
+# Local databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Project generated / large files
+# =========================
+AI-Powered-Multimodal-Dementia-System/data/mri/raw/
+AI-Powered-Multimodal-Dementia-System/data/mri/cleaned/
+AI-Powered-Multimodal-Dementia-System/data/audio/raw/
+AI-Powered-Multimodal-Dementia-System/data/audio/cleaned/
+
+AI-Powered-Multimodal-Dementia-System/data/audio/features/
+AI-Powered-Multimodal-Dementia-System/data/mri/features/
+
+*.npy
+*.npz
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+AI-Powered-Multimodal-Dementia-System/mlruns/
+AI-Powered-Multimodal-Dementia-System/mlartifacts/
+
+outputs/
+checkpoints/
+runs/
+
+# Project generator outside the main project
+create_project.py

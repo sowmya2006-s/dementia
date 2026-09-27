@@ -1,0 +1,116 @@
+{
+  "experiment_name": "Audio_Dementia_Classification",
+  "run_id": "5a6b44b53e3748d198a59932edc9ca0e",
+  "run_name": "CNN_MFCC_seed42",
+  "model": "AudioCNN",
+  "seed": 42,
+  "creation_timestamp": "2026-09-25T10:42:50.077000+00:00",
+  "dataset_information": {
+    "total_recordings": 228,
+    "total_persons": 135,
+    "classes": {
+      "dementia": 131,
+      "nodementia": 97
+    },
+    "split": {
+      "train_recordings": 120,
+      "train_persons": 93,
+      "validation_recordings": 48,
+      "validation_persons": 21,
+      "test_recordings": 60,
+      "test_persons": 21,
+      "seed": 42,
+      "person_leakage_checks": {
+        "train_validation": 0,
+        "train_test": 0,
+        "validation_test": 0
+      }
+    },
+    "mfcc": {
+      "train_chunks": 1560,
+      "validation_chunks": 564,
+      "test_chunks": 689,
+      "shape": "40x313"
+    }
+  },
+  "training_configuration": {
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "loss": "BCEWithLogitsLoss",
+    "dropout": 0.3,
+    "max_epochs": 30,
+    "early_stopping_patience": 7,
+    "device": "cpu",
+    "sample_rate": 16000,
+    "n_mfcc": 40,
+    "n_fft": 1024,
+    "hop_length": 512,
+    "win_length": 1024,
+    "n_mels": 40,
+    "fmin": 20,
+    "fmax": 8000,
+    "chunk_seconds": 10,
+    "chunk_hop_seconds": 5,
+    "best_epoch": 1,
+    "best_validation_loss": 0.69234694480896
+  },
+  "final_test_metrics": {
+    "person": {
+      "accuracy": 0.42857142857142855,
+      "precision": 0.6666666666666666,
+      "recall": 0.15384615384615385,
+      "f1": 0.25,
+      "roc_auc": 0.5480769230769231
+    },
+    "recording": {
+      "accuracy": 0.4666666666666667,
+      "precision": 0.7,
+      "recall": 0.19444444444444445,
+      "f1": 0.30434782608695654,
+      "roc_auc": 0.5671296296296297
+    },
+    "chunk": {
+      "accuracy": 0.4833091436865022,
+      "precision": 0.7468354430379747,
+      "recall": 0.14936708860759493,
+      "f1": 0.2489451476793249,
+      "roc_auc": 0.6508567984155688
+    }
+  },
+  "storage": {
+    "tracking_uri": "sqlite:///C:/Users/sricb/OneDrive/Desktop/AI dementia dection/mlruns.db",
+    "backend": "SQLite",
+    "tracking_database": "C:/Users/sricb/OneDrive/Desktop/AI dementia dection/mlruns.db",
+    "project_tracking_backup": "mlflow/mlruns.db",
+    "experiment_artifact_location": "file:///C:/Users/sricb/OneDrive/Desktop/AI%20dementia%20dection/AI-Powered-Multimodal-Dementia-System/mlruns/1",
+    "run_artifact_uri": "file:///C:/Users/sricb/OneDrive/Desktop/AI%20dementia%20dection/AI-Powered-Multimodal-Dementia-System/mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts",
+    "project_artifact_directory": "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts"
+  },
+  "artifact_paths": [
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/best_audio_cnn.pth",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/chunk_level_predictions.csv",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/classification_report.txt",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/confusion_matrix.png",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/person_level_predictions.csv",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/recording_level_predictions.csv",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/roc_curve.png",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/test_metrics.json",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/training_accuracy.png",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/training_config.json",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/training_history.csv",
+    "mlruns/1/5a6b44b53e3748d198a59932edc9ca0e/artifacts/training_loss.png"
+  ],
+  "project_result_paths": {
+    "model": "models/audio/best_audio_cnn.pth",
+    "training_configuration": "models/audio/training_config.json",
+    "training_history": "results/audio/training_history.csv",
+    "confusion_matrix": "results/audio/confusion_matrix.png",
+    "roc_curve": "results/audio/roc_curve.png",
+    "classification_report": "results/audio/classification_report.txt",
+    "test_metrics": "results/audio/test_metrics.json",
+    "chunk_predictions": "results/audio/chunk_level_predictions.csv",
+    "recording_predictions": "results/audio/recording_level_predictions.csv",
+    "person_predictions": "results/audio/person_level_predictions.csv"
+  }
+}

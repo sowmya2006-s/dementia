@@ -1,0 +1,61 @@
+file_path,class,person_id,split
+dementia/Aileen Hernandez/aileenhernandez_0.wav,dementia,Aileen Hernandez,test
+dementia/Aileen Hernandez/aileenhernandez_5_1.wav,dementia,Aileen Hernandez,test
+dementia/Aileen Hernandez/aileenhernandez_5_2.wav,dementia,Aileen Hernandez,test
+dementia/Antony Flew/antonyflew_10.wav,dementia,Antony Flew,test
+dementia/Antony Flew/antonyflew_5_1.wav,dementia,Antony Flew,test
+dementia/Antony Flew/antonyflew_5_2.wav,dementia,Antony Flew,test
+dementia/B B King/bbking_0.wav,dementia,B B King,test
+dementia/B B King/bbking_10.wav,dementia,B B King,test
+dementia/B B King/bbking_15.wav,dementia,B B King,test
+dementia/Bill Buckner/BillBuckner_10.wav,dementia,Bill Buckner,test
+dementia/Bill Buckner/BillBuckner_15.wav,dementia,Bill Buckner,test
+dementia/Bill Buckner/BillBuckner_5.wav,dementia,Bill Buckner,test
+dementia/David Prowse/DavidProwse_0.wav,dementia,David Prowse,test
+dementia/David Prowse/DavidProwse_10.wav,dementia,David Prowse,test
+dementia/David Prowse/DavidProwse_5.wav,dementia,David Prowse,test
+dementia/Gale Sayers/galesayers_0.wav,dementia,Gale Sayers,test
+dementia/Gale Sayers/galesayers_5_1.wav,dementia,Gale Sayers,test
+dementia/Gale Sayers/galesayers_5_2.wav,dementia,Gale Sayers,test
+dementia/George Klein/georgeklein_5_1.wav,dementia,George Klein,test
+dementia/George Klein/georgeklein_5_2.wav,dementia,George Klein,test
+dementia/George Klein/georgeklein_5_3.wav,dementia,George Klein,test
+dementia/Jesse Helms/jessehelms_0.wav,dementia,Jesse Helms,test
+dementia/Jesse Helms/jessehelms_5_1.wav,dementia,Jesse Helms,test
+dementia/Jesse Helms/jessehelms_5_2.wav,dementia,Jesse Helms,test
+dementia/Jim Neidhart/JimNeidhart_0.wav,dementia,Jim Neidhart,test
+dementia/Jim Neidhart/JimNeidhart_10.wav,dementia,Jim Neidhart,test
+dementia/Jim Neidhart/JimNeidhart_15.wav,dementia,Jim Neidhart,test
+dementia/Maurice Hinchey/mauricehinchey_0_1.wav,dementia,Maurice Hinchey,test
+dementia/Maurice Hinchey/mauricehinchey_0_2.wav,dementia,Maurice Hinchey,test
+dementia/Maurice Hinchey/mauricehinchey_5.wav,dementia,Maurice Hinchey,test
+dementia/Peter Max/PeterMax_10.wav,dementia,Peter Max,test
+dementia/Peter Max/PeterMax_15.wav,dementia,Peter Max,test
+dementia/Richard Gwyn/RichardGwyn_0.wav,dementia,Richard Gwyn,test
+dementia/Richard Gwyn/RichardGwyn_5.wav,dementia,Richard Gwyn,test
+dementia/Ronan O_Rahilly/ronano_rahilly_15_1.wav,dementia,Ronan O_Rahilly,test
+dementia/Ronan O_Rahilly/ronano_rahilly_15_2.wav,dementia,Ronan O_Rahilly,test
+nodementia/Harry Belafonte/HarryBelafonte_1.wav,nodementia,Harry Belafonte,test
+nodementia/Harry Belafonte/HarryBelafonte_2.wav,nodementia,Harry Belafonte,test
+nodementia/Harry Belafonte/HarryBelafonte_3.wav,nodementia,Harry Belafonte,test
+nodementia/Joe Pesci/JoePesci_1.wav,nodementia,Joe Pesci,test
+nodementia/Joe Pesci/JoePesci_2.wav,nodementia,Joe Pesci,test
+nodementia/Joe Pesci/JoePesci_3.wav,nodementia,Joe Pesci,test
+nodementia/Kirk Douglas/Kirk Douglas_1.wav,nodementia,Kirk Douglas,test
+nodementia/Kirk Douglas/Kirk Douglas_2.wav,nodementia,Kirk Douglas,test
+nodementia/Kirk Douglas/Kirk Douglas_3.wav,nodementia,Kirk Douglas,test
+nodementia/Mel brooks/Mel brooks_1.wav,nodementia,Mel brooks,test
+nodementia/Mel brooks/Mel brooks_2.wav,nodementia,Mel brooks,test
+nodementia/Mel brooks/Mel brooks_3.wav,nodementia,Mel brooks,test
+nodementia/Morgen Freeman/Morgen Freeman_1.wav,nodementia,Morgen Freeman,test
+nodementia/Morgen Freeman/Morgen Freeman_2.wav,nodementia,Morgen Freeman,test
+nodementia/Morgen Freeman/Morgen Freeman_3.wav,nodementia,Morgen Freeman,test
+nodementia/Patrick Stewart/Patrick Stewart_1.wav,nodementia,Patrick Stewart,test
+nodementia/Patrick Stewart/Patrick Stewart_2.wav,nodementia,Patrick Stewart,test
+nodementia/Patrick Stewart/Patrick Stewart_3.wav,nodementia,Patrick Stewart,test
+nodementia/Raquel Welch/RaquelWelch_1.wav,nodementia,Raquel Welch,test
+nodementia/Raquel Welch/RaquelWelch_2.wav,nodementia,Raquel Welch,test
+nodementia/Raquel Welch/RaquelWelch_3.wav,nodementia,Raquel Welch,test
+nodementia/Terry Gilliam/TerryGilliam_1.wav,nodementia,Terry Gilliam,test
+nodementia/Terry Gilliam/TerryGilliam_2.wav,nodementia,Terry Gilliam,test
+nodementia/Terry Gilliam/TerryGilliam_3.wav,nodementia,Terry Gilliam,test

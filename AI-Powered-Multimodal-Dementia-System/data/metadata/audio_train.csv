@@ -1,0 +1,121 @@
+file_path,class,person_id,split
+dementia/Abe Burrows/AbeBurrows_5.wav,dementia,Abe Burrows,train
+dementia/Alan Ramsey/alanramsey_10.wav,dementia,Alan Ramsey,train
+dementia/Allan Burns/AllanBurns_5.wav,dementia,Allan Burns,train
+dementia/Andrew Sachs/andrewsachs_10.wav,dementia,Andrew Sachs,train
+dementia/Andrew Sachs/andrewsachs_15.wav,dementia,Andrew Sachs,train
+dementia/Annette Michelson/annettemichelson_15.wav,dementia,Annette Michelson,train
+dementia/Barry Cohen/BarryCohen_5.wav,dementia,Barry Cohen,train
+dementia/Bobby Womack/BobbyWomack_0.wav,dementia,Bobby Womack,train
+dementia/Charles Bronson/CharlesBronson_10.wav,dementia,Charles Bronson,train
+dementia/Charles Bronson/CharlesBronson_15.wav,dementia,Charles Bronson,train
+dementia/Charles K Kao/CharlesKKao_0.wav,dementia,Charles K Kao,train
+dementia/Dan Ingram/daningram_15.wav,dementia,Dan Ingram,train
+dementia/David Milch/DavidMilch_10.wav,dementia,David Milch,train
+dementia/David Milch/DavidMilch_15.wav,dementia,David Milch,train
+dementia/Dennis Moore/DennisMoore_5.wav,dementia,Dennis Moore,train
+dementia/Don Lane/DonLane_0.wav,dementia,Don Lane,train
+dementia/Donald Sterling/DonaldSterling_5.wav,dementia,Donald Sterling,train
+dementia/Emile Griffith/emilegriffith_5.wav,dementia,Emile Griffith,train
+dementia/Ernie Sigley/ErnieSigley_15.wav,dementia,Ernie Sigley,train
+dementia/Estelle Getty/EstelleGetty_15.wav,dementia,Estelle Getty,train
+dementia/Evelyn Keyes/EvelynKeyes_0.wav,dementia,Evelyn Keyes,train
+dementia/Evelyn Keyes/EvelynKeyes_10.wav,dementia,Evelyn Keyes,train
+dementia/George Robb/georgerobb_10.wav,dementia,George Robb,train
+dementia/Greg Fingers Taylor/GregFingersTaylor_10.wav,dementia,Greg Fingers Taylor,train
+dementia/Ian Holm/IanHolm_2.wav,dementia,Ian Holm,train
+dementia/Ian McCaskill/ianmccaskill_15.wav,dementia,Ian McCaskill,train
+dementia/James Stewart/JamesStewart_5.wav,dementia,James Stewart,train
+dementia/Jeanne Little/JeanneLittle_10.wav,dementia,Jeanne Little,train
+dementia/Jessejackson/Jessejackson_0.wav,dementia,Jessejackson,train
+dementia/Jim McLean/jimmclean_10.wav,dementia,Jim McLean,train
+dementia/Jimmy Calderwood/JimmyCalderwood_5.wav,dementia,Jimmy Calderwood,train
+dementia/Jimmy Fratianno/JimmyFratianno_0.wav,dementia,Jimmy Fratianno,train
+dementia/Joe Conley/JoeConley_0.wav,dementia,Joe Conley,train
+dementia/Jonathan Miller/JonathanMiller_5.wav,dementia,Jonathan Miller,train
+dementia/Leon Redbone/leonredbone_15.wav,dementia,Leon Redbone,train
+dementia/Lerone Bennett Jr/LeroneBennettJr_10.wav,dementia,Lerone Bennett Jr,train
+dementia/Maureen Forrester/maureenforrester_5.wav,dementia,Maureen Forrester,train
+dementia/Otis Chandler/OtisChandler_5.wav,dementia,Otis Chandler,train
+dementia/Paul Hornung/paulhornung_0.wav,dementia,Paul Hornung,train
+dementia/Paul Hornung/paulhornung_10.wav,dementia,Paul Hornung,train
+dementia/Pauline Phillips/PaulinePhillips_10.wav,dementia,Pauline Phillips,train
+dementia/Peter Reveen/peterreveen_15.wav,dementia,Peter Reveen,train
+dementia/Ray Galton/RayGalton_5.wav,dementia,Ray Galton,train
+dementia/Robert Anderson/RobertAnderson_10.wav,dementia,Robert Anderson,train
+dementia/Robin Williams/RobinWilliams_0.wav,dementia,Robin Williams,train
+dementia/Ronald Reagan/RonaldReagan_10.wav,dementia,Ronald Reagan,train
+dementia/Ronald Reagan/RonaldReagan_5.wav,dementia,Ronald Reagan,train
+dementia/Ross Mac Donald/RossMacDonald_10.wav,dementia,Ross Mac Donald,train
+dementia/Sparky Anderson/SparkyAnderson_0.wav,dementia,Sparky Anderson,train
+dementia/Stan Bowles/StanBowles_5.wav,dementia,Stan Bowles,train
+dementia/Stella Stevens/StellaStevens_15.wav,dementia,Stella Stevens,train
+dementia/Steve Lawrence/SteveLawrence_15.wav,dementia,Steve Lawrence,train
+dementia/Ted Turner/TedTurner_0.wav,dementia,Ted Turner,train
+dementia/Ted Turner/TedTurner_5.wav,dementia,Ted Turner,train
+dementia/Teresa Gorman/TeresaGorman_10.wav,dementia,Teresa Gorman,train
+dementia/Terry Jones/terryjones_5.wav,dementia,Terry Jones,train
+dementia/Terry Pratchett/TerryPratchett_0.wav,dementia,Terry Pratchett,train
+dementia/Terry Pratchett/TerryPratchett_5.wav,dementia,Terry Pratchett,train
+dementia/Thomas Dorsey/thomasdorsey_0.wav,dementia,Thomas Dorsey,train
+dementia/Tony Bennett/TonyBennett_0.wav,dementia,Tony Bennett,train
+dementia/Tony Bennett/TonyBennett_15.wav,dementia,Tony Bennett,train
+dementia/Tony Parkes/TonyParkes_10.wav,dementia,Tony Parkes,train
+dementia/Tony Parkes/TonyParkes_5.wav,dementia,Tony Parkes,train
+dementia/Trevor Peacock/TrevorPeacock_5.wav,dementia,Trevor Peacock,train
+dementia/Unita Blackwell/UnitaBlackwell_15.wav,dementia,Unita Blackwell,train
+dementia/Vampiro/Vampiro_0.wav,dementia,Vampiro,train
+dementia/Vampiro/Vampiro_5.wav,dementia,Vampiro,train
+dementia/Viv Nicholson/vivnicholson_5.wav,dementia,Viv Nicholson,train
+dementia/Woody Durham/woodydurham_0_2.wav,dementia,Woody Durham,train
+nodementia/Angela Lansbury/Angela Lansbury_3.wav,nodementia,Angela Lansbury,train
+nodementia/Barbra Streisand/BarbraStreisand_1.wav,nodementia,Barbra Streisand,train
+nodementia/Bernie Sanders/BernieSanders_3.wav,nodementia,Bernie Sanders,train
+nodementia/Bill Cosby/BillCosby_1.wav,nodementia,Bill Cosby,train
+nodementia/Charlie Watts/CharlieWatts_1.wav,nodementia,Charlie Watts,train
+nodementia/Christopher Plummer/christopher plummer_2.wav,nodementia,Christopher Plummer,train
+nodementia/Dionne Warwick/DionneWarwick_1.wav,nodementia,Dionne Warwick,train
+nodementia/Dionne Warwick/DionneWarwick_3.wav,nodementia,Dionne Warwick,train
+nodementia/Dominic Chianese/DominicChianese_3.wav,nodementia,Dominic Chianese,train
+nodementia/George Clinton/GeorgeClinton_3.wav,nodementia,George Clinton,train
+nodementia/James Brolin/JamesBrolin_1.wav,nodementia,James Brolin,train
+nodementia/James Caan/JamesCaan_2.wav,nodementia,James Caan,train
+nodementia/James Cromwell/JamesCromwell_3.wav,nodementia,James Cromwell,train
+nodementia/James Earl Jones/james earl jones_1.wav,nodementia,James Earl Jones,train
+nodementia/Jerry Lewis/JerryLewis1.wav,nodementia,Jerry Lewis,train
+nodementia/Jerry Lewis/JerryLewis2.wav,nodementia,Jerry Lewis,train
+nodementia/Jimmy Carter/Jimmy carter_2.wav,nodementia,Jimmy Carter,train
+nodementia/Judi Dench/Judi Dench_2.wav,nodementia,Judi Dench,train
+nodementia/Judi Dench/Judi Dench_3.wav,nodementia,Judi Dench,train
+nodementia/Kenny Rogers/KennyRogers_1.wav,nodementia,Kenny Rogers,train
+nodementia/Kenny Rogers/KennyRogers_3.wav,nodementia,Kenny Rogers,train
+nodementia/Line Renaud/LineRenaud_1.wav,nodementia,Line Renaud,train
+nodementia/Line Renaud/LineRenaud_3.wav,nodementia,Line Renaud,train
+nodementia/Max von Sydow/MaxvonSydow_1.wav,nodementia,Max von Sydow,train
+nodementia/Michael Dukakis/MichaelDukakis_1.wav,nodementia,Michael Dukakis,train
+nodementia/Michael Dukakis/MichaelDukakis_3.wav,nodementia,Michael Dukakis,train
+nodementia/Michael Gambon/MichaelGambon_2.wav,nodementia,Michael Gambon,train
+nodementia/Michael Gambon/MichaelGambon_3.wav,nodementia,Michael Gambon,train
+nodementia/Mireille Darc/MireilleDarc_3.wav,nodementia,Mireille Darc,train
+nodementia/Paul McCartney/PaulMcCartney_3.wav,nodementia,Paul McCartney,train
+nodementia/Paul Sorvino/PaulSorvino_3.wav,nodementia,Paul Sorvino,train
+nodementia/Paul Verhoeven/PaulVerhoeven_1.wav,nodementia,Paul Verhoeven,train
+nodementia/Paul Verhoeven/PaulVerhoeven_3.wav,nodementia,Paul Verhoeven,train
+nodementia/Peter Fonda/PeterFonda_2.wav,nodementia,Peter Fonda,train
+nodementia/Peter Fonda/PeterFonda_3.wav,nodementia,Peter Fonda,train
+nodementia/Philip Glass/PhilipGlass_1.wav,nodementia,Philip Glass,train
+nodementia/Philip Glass/PhilipGlass_3.wav,nodementia,Philip Glass,train
+nodementia/Prince Philip/Prince Philip_1.wav,nodementia,Prince Philip,train
+nodementia/Prince Philip/Prince Philip_2.wav,nodementia,Prince Philip,train
+nodementia/Ralph Lauren/RalphLauren_2.wav,nodementia,Ralph Lauren,train
+nodementia/Robert De Niro/RobertDeNiro_1.wav,nodementia,Robert De Niro,train
+nodementia/Robert De Niro/RobertDeNiro_2.wav,nodementia,Robert De Niro,train
+nodementia/Robert Wagner/RobertWagner_3.wav,nodementia,Robert Wagner,train
+nodementia/Roger Waters/RogerWaters_2.wav,nodementia,Roger Waters,train
+nodementia/Roger Waters/RogerWaters_3.wav,nodementia,Roger Waters,train
+nodementia/Terry Riley/TerryRiley_2.wav,nodementia,Terry Riley,train
+nodementia/Terry Riley/TerryRiley_3.wav,nodementia,Terry Riley,train
+nodementia/Warren Buffett/Warren Buffett_2.wav,nodementia,Warren Buffett,train
+nodementia/Warren Buffett/WarrenBuffett_3.wav,nodementia,Warren Buffett,train
+nodementia/William Shatner/WilliamShatner_1.wav,nodementia,William Shatner,train
+nodementia/William Shatner/WilliamShatner_3.wav,nodementia,William Shatner,train

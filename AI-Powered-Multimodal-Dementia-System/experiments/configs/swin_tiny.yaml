@@ -1,0 +1,24 @@
+project_name: AI_Dementia_Journal
+experiment_name: MRI_Dementia_Classification
+seed: 42
+
+dataset:
+  name: Kaggle_Alzheimers_MRI
+  total_images: 11519
+  train_ratio: 0.70
+  validation_ratio: 0.15
+  test_ratio: 0.15
+
+model:
+  name: Swin-Tiny
+  pretrained: true
+  pretrained_source: ImageNet
+  num_classes: 4
+
+training:
+  batch_size: null
+  learning_rate: null
+  epochs: null
+  optimizer: null
+  scheduler: null
+  weight_decay: null

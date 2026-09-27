@@ -1,0 +1,49 @@
+file_path,class,person_id,split
+dementia/Ben Bradlee/BenBradlee_15.wav,dementia,Ben Bradlee,validation
+dementia/Ben Bradlee/BenBradlee_5.wav,dementia,Ben Bradlee,validation
+dementia/Casey Kasem/CaseyKasem_15.wav,dementia,Casey Kasem,validation
+dementia/Casey Kasem/CaseyKasem_5.wav,dementia,Casey Kasem,validation
+dementia/Charmian Carr/CharmianCarr_15.wav,dementia,Charmian Carr,validation
+dementia/Charmian Carr/CharmianCarr_5.wav,dementia,Charmian Carr,validation
+dementia/Iris Murdoch/IrisMurdoch_10.wav,dementia,Iris Murdoch,validation
+dementia/Iris Murdoch/IrisMurdoch_5.wav,dementia,Iris Murdoch,validation
+dementia/Jack Hanna/JackHanna_10.wav,dementia,Jack Hanna,validation
+dementia/Jack Hanna/JackHanna_15.wav,dementia,Jack Hanna,validation
+dementia/Jack Webster/JackWebster_10.wav,dementia,Jack Webster,validation
+dementia/Jack Webster/JackWebster_5.wav,dementia,Jack Webster,validation
+dementia/John Mackey/johnmackey_15_1.wav,dementia,John Mackey,validation
+dementia/John Mackey/johnmackey_15_2.wav,dementia,John Mackey,validation
+dementia/Omar Sharif/OmarSharif_0.wav,dementia,Omar Sharif,validation
+dementia/Omar Sharif/OmarSharif_10.wav,dementia,Omar Sharif,validation
+dementia/Pat Pariseau/patpariseau_10_1.wav,dementia,Pat Pariseau,validation
+dementia/Pat Pariseau/patpariseau_10_2.wav,dementia,Pat Pariseau,validation
+dementia/Peter Falk/PeterFalk_10.wav,dementia,Peter Falk,validation
+dementia/Peter Falk/PeterFalk_15.wav,dementia,Peter Falk,validation
+dementia/Ralph Klein/ralphklein_5_1.wav,dementia,Ralph Klein,validation
+dementia/Ralph Klein/ralphklein_5_2.wav,dementia,Ralph Klein,validation
+dementia/Ray Dolby/RayDolby_0.wav,dementia,Ray Dolby,validation
+dementia/Ray Dolby/RayDolby_10.wav,dementia,Ray Dolby,validation
+dementia/Tim Conway/TimConway_10.wav,dementia,Tim Conway,validation
+dementia/Tim Conway/TimConway_5.wav,dementia,Tim Conway,validation
+nodementia/Barry Levinson/BarryLevinson_1.wav,nodementia,Barry Levinson,validation
+nodementia/Barry Levinson/BarryLevinson_2.wav,nodementia,Barry Levinson,validation
+nodementia/Barry Levinson/BarryLevinson_3.wav,nodementia,Barry Levinson,validation
+nodementia/Bill Wyman/BillWyman_1.wav,nodementia,Bill Wyman,validation
+nodementia/Bill Wyman/BillWyman_3.wav,nodementia,Bill Wyman,validation
+nodementia/Nick Nolte/NickNolte_1.wav,nodementia,Nick Nolte,validation
+nodementia/Nick Nolte/NickNolte_2.wav,nodementia,Nick Nolte,validation
+nodementia/Nick Nolte/NickNolte_3.wav,nodementia,Nick Nolte,validation
+nodementia/Richard Donner/RichardDonner_2.wav,nodementia,Richard Donner,validation
+nodementia/Richard Donner/RichardDonner_3.wav,nodementia,Richard Donner,validation
+nodementia/Robert Vaughn/RobertVaughn_1.wav,nodementia,Robert Vaughn,validation
+nodementia/Robert Vaughn/RobertVaughn_2.wav,nodementia,Robert Vaughn,validation
+nodementia/Robert Vaughn/RobertVaughn_3.wav,nodementia,Robert Vaughn,validation
+nodementia/Rupert Murdoch/RupertMurdoch_1.wav,nodementia,Rupert Murdoch,validation
+nodementia/Rupert Murdoch/RupertMurdoch_2.wav,nodementia,Rupert Murdoch,validation
+nodementia/Rupert Murdoch/RupertMurdoch_3.wav,nodementia,Rupert Murdoch,validation
+nodementia/Stan Lee/Stan Lee_1.wav,nodementia,Stan Lee,validation
+nodementia/Stan Lee/Stan Lee_2.wav,nodementia,Stan Lee,validation
+nodementia/Stan Lee/Stan Lee_3.wav,nodementia,Stan Lee,validation
+nodementia/Yoko Ono/YokoOno_1.wav,nodementia,Yoko Ono,validation
+nodementia/Yoko Ono/YokoOno_2.wav,nodementia,Yoko Ono,validation
+nodementia/Yoko Ono/YokoOno_3.wav,nodementia,Yoko Ono,validation

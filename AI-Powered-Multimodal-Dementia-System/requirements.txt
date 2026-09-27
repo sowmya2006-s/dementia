@@ -1,0 +1,17 @@
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+Pillow
+librosa
+soundfile
+gradio
+grad-cam
+openpyxl
+PyYAML
+mlflow

@@ -1,0 +1,13 @@
+{
+  "model": "AudioCNN",
+  "input_type": "MFCC",
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "loss": "BCEWithLogitsLoss",
+  "dropout": 0.3,
+  "max_epochs": 30,
+  "early_stopping_patience": 7,
+  "seed": 42,
+  "device": "cpu"
+}

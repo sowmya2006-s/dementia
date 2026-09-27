@@ -1,0 +1,14 @@
+key,value
+dataset_version,MRI_V1_CLEAN
+total_images,11519
+classes,4
+train_images,8704
+validation_images,1536
+test_images,1279
+split_ratio_target,70/15/15; test retained unchanged
+random_seed,42
+duplicate_groups,182
+duplicate_policy,group-wise separation; no raw files deleted
+test_duplicate_overlap,0
+cross_label_duplicate_groups,0
+class_counts,"{'Mildly Demented': 2739, 'Moderately Demented': 2572, 'Non-Demented': 3200, 'Very Mildly Demented': 3008}"

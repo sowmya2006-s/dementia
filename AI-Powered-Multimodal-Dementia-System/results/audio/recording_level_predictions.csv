@@ -1,0 +1,61 @@
+person_id,recording_name,source_file,true_label,mean_probability,number_of_chunks,prediction
+Aileen Hernandez,aileenhernandez_0,dementia/Aileen Hernandez/aileenhernandez_0.wav,1,0.4978683561086655,10,0
+Aileen Hernandez,aileenhernandez_5_1,dementia/Aileen Hernandez/aileenhernandez_5_1.wav,1,0.41704193875193596,8,0
+Aileen Hernandez,aileenhernandez_5_2,dementia/Aileen Hernandez/aileenhernandez_5_2.wav,1,0.4503469351265166,18,0
+Antony Flew,antonyflew_10,dementia/Antony Flew/antonyflew_10.wav,1,0.4509994470410877,18,0
+Antony Flew,antonyflew_5_1,dementia/Antony Flew/antonyflew_5_1.wav,1,0.4134810447692871,15,0
+Antony Flew,antonyflew_5_2,dementia/Antony Flew/antonyflew_5_2.wav,1,0.4264264504114787,6,0
+B B King,bbking_0,dementia/B B King/bbking_0.wav,1,0.4278333783149719,1,0
+B B King,bbking_10,dementia/B B King/bbking_10.wav,1,0.3955734173456828,18,0
+B B King,bbking_15,dementia/B B King/bbking_15.wav,1,0.3983212821185589,16,0
+Bill Buckner,BillBuckner_10,dementia/Bill Buckner/BillBuckner_10.wav,1,0.44890738278627396,8,0
+Bill Buckner,BillBuckner_15,dementia/Bill Buckner/BillBuckner_15.wav,1,0.5626218782530891,9,1
+Bill Buckner,BillBuckner_5,dementia/Bill Buckner/BillBuckner_5.wav,1,0.42390718559424084,6,0
+David Prowse,DavidProwse_0,dementia/David Prowse/DavidProwse_0.wav,1,0.34227223694324493,10,0
+David Prowse,DavidProwse_10,dementia/David Prowse/DavidProwse_10.wav,1,0.44844858740505417,19,0
+David Prowse,DavidProwse_5,dementia/David Prowse/DavidProwse_5.wav,1,0.39049970358610153,12,0
+Gale Sayers,galesayers_0,dementia/Gale Sayers/galesayers_0.wav,1,0.5164069778778974,17,1
+Gale Sayers,galesayers_5_1,dementia/Gale Sayers/galesayers_5_1.wav,1,0.5329879654778374,9,1
+Gale Sayers,galesayers_5_2,dementia/Gale Sayers/galesayers_5_2.wav,1,0.5003037832000039,11,1
+George Klein,georgeklein_5_1,dementia/George Klein/georgeklein_5_1.wav,1,0.4293373425801595,3,0
+George Klein,georgeklein_5_2,dementia/George Klein/georgeklein_5_2.wav,1,0.5300541405494397,13,1
+George Klein,georgeklein_5_3,dementia/George Klein/georgeklein_5_3.wav,1,0.41199076920747757,4,0
+Harry Belafonte,HarryBelafonte_1,nodementia/Harry Belafonte/HarryBelafonte_1.wav,0,0.36333044204447007,18,0
+Harry Belafonte,HarryBelafonte_2,nodementia/Harry Belafonte/HarryBelafonte_2.wav,0,0.36322270546640667,14,0
+Harry Belafonte,HarryBelafonte_3,nodementia/Harry Belafonte/HarryBelafonte_3.wav,0,0.3741497810070331,13,0
+Jesse Helms,jessehelms_0,dementia/Jesse Helms/jessehelms_0.wav,1,0.43458064397176105,18,0
+Jesse Helms,jessehelms_5_1,dementia/Jesse Helms/jessehelms_5_1.wav,1,0.4573871083557606,8,0
+Jesse Helms,jessehelms_5_2,dementia/Jesse Helms/jessehelms_5_2.wav,1,0.4167276620864868,1,0
+Jim Neidhart,JimNeidhart_0,dementia/Jim Neidhart/JimNeidhart_0.wav,1,0.5412146349747976,6,1
+Jim Neidhart,JimNeidhart_10,dementia/Jim Neidhart/JimNeidhart_10.wav,1,0.5094528943300247,4,1
+Jim Neidhart,JimNeidhart_15,dementia/Jim Neidhart/JimNeidhart_15.wav,1,0.4519754714436001,9,0
+Joe Pesci,JoePesci_1,nodementia/Joe Pesci/JoePesci_1.wav,0,0.4695414900779724,6,0
+Joe Pesci,JoePesci_2,nodementia/Joe Pesci/JoePesci_2.wav,0,0.43469409218856264,14,0
+Joe Pesci,JoePesci_3,nodementia/Joe Pesci/JoePesci_3.wav,0,0.4630881816148758,10,0
+Kirk Douglas,Kirk Douglas_1,nodementia/Kirk Douglas/Kirk Douglas_1.wav,0,0.4641920259365669,13,0
+Kirk Douglas,Kirk Douglas_2,nodementia/Kirk Douglas/Kirk Douglas_2.wav,0,0.4112845480442047,15,0
+Kirk Douglas,Kirk Douglas_3,nodementia/Kirk Douglas/Kirk Douglas_3.wav,0,0.4693597157796224,6,0
+Maurice Hinchey,mauricehinchey_0_1,dementia/Maurice Hinchey/mauricehinchey_0_1.wav,1,0.45993483894401127,18,0
+Maurice Hinchey,mauricehinchey_0_2,dementia/Maurice Hinchey/mauricehinchey_0_2.wav,1,0.44253917783498764,4,0
+Maurice Hinchey,mauricehinchey_5,dementia/Maurice Hinchey/mauricehinchey_5.wav,1,0.4318435937166214,18,0
+Mel brooks,Mel brooks_1,nodementia/Mel brooks/Mel brooks_1.wav,0,0.3597580407346998,7,0
+Mel brooks,Mel brooks_2,nodementia/Mel brooks/Mel brooks_2.wav,0,0.44762594997882843,18,0
+Mel brooks,Mel brooks_3,nodementia/Mel brooks/Mel brooks_3.wav,0,0.5687969923019409,5,1
+Morgen Freeman,Morgen Freeman_1,nodementia/Morgen Freeman/Morgen Freeman_1.wav,0,0.4091032468355619,13,0
+Morgen Freeman,Morgen Freeman_2,nodementia/Morgen Freeman/Morgen Freeman_2.wav,0,0.32614413955632376,17,0
+Morgen Freeman,Morgen Freeman_3,nodementia/Morgen Freeman/Morgen Freeman_3.wav,0,0.4508606754243374,8,0
+Patrick Stewart,Patrick Stewart_1,nodementia/Patrick Stewart/Patrick Stewart_1.wav,0,0.3898981826172935,18,0
+Patrick Stewart,Patrick Stewart_2,nodementia/Patrick Stewart/Patrick Stewart_2.wav,0,0.4115154594182968,14,0
+Patrick Stewart,Patrick Stewart_3,nodementia/Patrick Stewart/Patrick Stewart_3.wav,0,0.45832911447474833,19,0
+Peter Max,PeterMax_10,dementia/Peter Max/PeterMax_10.wav,1,0.46775630861520767,8,0
+Peter Max,PeterMax_15,dementia/Peter Max/PeterMax_15.wav,1,0.43657162189483645,5,0
+Raquel Welch,RaquelWelch_1,nodementia/Raquel Welch/RaquelWelch_1.wav,0,0.5359292179346085,6,1
+Raquel Welch,RaquelWelch_2,nodementia/Raquel Welch/RaquelWelch_2.wav,0,0.46613190074761707,6,0
+Raquel Welch,RaquelWelch_3,nodementia/Raquel Welch/RaquelWelch_3.wav,0,0.5126642237106959,6,1
+Richard Gwyn,RichardGwyn_0,dementia/Richard Gwyn/RichardGwyn_0.wav,1,0.37220510178142124,9,0
+Richard Gwyn,RichardGwyn_5,dementia/Richard Gwyn/RichardGwyn_5.wav,1,0.419146843028791,33,0
+Ronan O_Rahilly,ronano_rahilly_15_1,dementia/Ronan O_Rahilly/ronano_rahilly_15_1.wav,1,0.451271179649565,18,0
+Ronan O_Rahilly,ronano_rahilly_15_2,dementia/Ronan O_Rahilly/ronano_rahilly_15_2.wav,1,0.33796616792678835,5,0
+Terry Gilliam,TerryGilliam_1,nodementia/Terry Gilliam/TerryGilliam_1.wav,0,0.38927873141235775,18,0
+Terry Gilliam,TerryGilliam_2,nodementia/Terry Gilliam/TerryGilliam_2.wav,0,0.42732469985882443,12,0
+Terry Gilliam,TerryGilliam_3,nodementia/Terry Gilliam/TerryGilliam_3.wav,0,0.4002945688035753,18,0

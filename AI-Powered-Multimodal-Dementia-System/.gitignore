@@ -1,0 +1,75 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LARGE DATASETS
+# =========================
+data/mri/raw/
+data/mri/cleaned/
+data/audio/raw/
+data/audio/cleaned/
+
+# =========================
+# GENERATED FEATURES
+# =========================
+data/audio/features/
+data/mri/features/
+*.npy
+*.npz
+
+# =========================
+# TRAINED MODELS
+# =========================
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# =========================
+# DATABASES / LOCAL TRACKING
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# MLflow local storage
+mlruns/
+mlartifacts/
+
+# =========================
+# GENERATED OUTPUTS
+# =========================
+outputs/
+checkpoints/
+runs/
+
+# =========================
+# TEMP / CACHE
+# =========================
+*.tmp
+*.temp
+*.log

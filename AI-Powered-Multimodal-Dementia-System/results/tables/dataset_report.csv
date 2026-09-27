@@ -1,0 +1,9 @@
+split,class_name,file_count,dominant_dimensions,format_counts,corrupted_files,dataset_total
+train,Mild Impairment,2560,"[('128x128', 10240)]",{'JPEG': 10240},0,10240
+train,Moderate Impairment,2560,"[('128x128', 10240)]",{'JPEG': 10240},0,10240
+train,No Impairment,2560,"[('128x128', 10240)]",{'JPEG': 10240},0,10240
+train,Very Mild Impairment,2560,"[('128x128', 10240)]",{'JPEG': 10240},0,10240
+test,Mild Impairment,179,"[('128x128', 1279)]",{'JPEG': 1279},0,11519
+test,Moderate Impairment,12,"[('128x128', 1279)]",{'JPEG': 1279},0,11519
+test,No Impairment,640,"[('128x128', 1279)]",{'JPEG': 1279},0,11519
+test,Very Mild Impairment,448,"[('128x128', 1279)]",{'JPEG': 1279},0,11519

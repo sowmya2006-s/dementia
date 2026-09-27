@@ -1,0 +1,365 @@
+duplicate_group,image_path,class,source_split,sha256
+DUP-7263,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (100).jpg,Mildly Demented,train,a50c26bde2b0b6fca0da32bbf3e84839687e4c3bc8f0b5bebead3174a08405a2
+DUP-123,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (101).jpg,Mildly Demented,train,0359ac4cec1cf86823d0915756f70848d1983ab8de2c56e7c5554ba1a6ee5955
+DUP-9730,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (102).jpg,Mildly Demented,train,db5c741106504b84e6d9d8917867987b995697354cf0168550955141ff2d34b1
+DUP-6176,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (103).jpg,Mildly Demented,train,8b7c01061138f73dcbc14f666eb201cc35f7f9c4ca8fb26ed195cdf917f840cc
+DUP-4233,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (104).jpg,Mildly Demented,train,5f54f6a88c59b7ae4eb6410f7ceb4e4e2023a130c8695d99dac7ae2a602a0f7e
+DUP-8421,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (105).jpg,Mildly Demented,train,be47ac284b1039bffe685f9a759aeb1a427ac53a537a3a9e026f29a2c8423ad8
+DUP-10720,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (106).jpg,Mildly Demented,train,f191ed96fb3fbcc495f0aed56b3c471494eb3f18b660036a317ddcae215dd6a9
+DUP-715,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (107).jpg,Mildly Demented,train,10433711d54ba04ae89dde78c02645a87db5311fe50bc1b8f1388443cb6cdc62
+DUP-1456,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (108).jpg,Mildly Demented,train,203748098b68defbbc873b53d266ea41c7c1041dba3769ea8339be9cd9e82ea8
+DUP-9675,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (109).jpg,Mildly Demented,train,d9fb33962e990c6f2a70ab40c1ecfdcd2f406ab91f4db34d69a6341b9d83d989
+DUP-3543,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (110).jpg,Mildly Demented,train,4f397bc8ea588c554cb1f8eebb278f9325b7f319812e44409b10680dfe8adcf8
+DUP-4797,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (111).jpg,Mildly Demented,train,6c4047426b191f15295b76b199ab25c7167ffe335a338e02ca95809fb929c19f
+DUP-189,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (112).jpg,Mildly Demented,train,04be501b645b051bbeb26d979a8ed89472ee8c95d7d148486edf993747806055
+DUP-8471,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (113).jpg,Mildly Demented,train,bf4b975af1379cedcaa11aa2cb1b151a50dbea2bfbbb8e95a1fb98b707fef6d2
+DUP-7424,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (114).jpg,Mildly Demented,train,a8df9d869dd66d86c302b4c63f77654e0177ac84d5f9c997084cc3178405a28b
+DUP-7050,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (115).jpg,Mildly Demented,train,9f95dd374a0926b6f90754e977ce1786ba5161098709759df0f58fca499d857d
+DUP-5265,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (116).jpg,Mildly Demented,train,76ddde34601e0ab21a2e6000a6930b8f431abfe3264603208d6dd139506e5b08
+DUP-1433,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (117).jpg,Mildly Demented,train,1fa6303f57a8cd935285e5c52267642c9dae0e39855bfebbd718ed889019d0c5
+DUP-838,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (118).jpg,Mildly Demented,train,1372282379952bb0b51f64641175a4600f5135e5389525e0fdc23ab8829ff8ac
+DUP-11162,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (119).jpg,Mildly Demented,train,fbdfc8faae3c520f0f34c7f16a102aa046c81c09b3a6327db5f0908d38554eec
+DUP-6645,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (120).jpg,Mildly Demented,train,967d54a61c6a137c2f006e62c52e471a84f39facbd14eeff6fa7e654eec7bba7
+DUP-586,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (121).jpg,Mildly Demented,train,0d4d4e5b13355d13a25e9ce20eb22e799b0d4ea3895f71f3e0765e942b0a1ea6
+DUP-1467,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (122).jpg,Mildly Demented,train,208c893bd61a7686fb5e07293ad821af994866b58bd8856809e2861fb633dc34
+DUP-8154,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (123).jpg,Mildly Demented,train,b806a66ffd42ca7a51bfb07175ea98b2ac736a1cf99b67f5277a500d463648ea
+DUP-8590,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (124).jpg,Mildly Demented,train,c1f4765ff83e3ba2f2ce470400e37d2f2333e16f7f3f677d7121fe37f84e73aa
+DUP-5932,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (125).jpg,Mildly Demented,train,85adc7e8621abde63ee9a5d2b9e7a61745cfa99ab84da4889adfbdc71d899438
+DUP-8352,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (126).jpg,Mildly Demented,train,bcaafe49ce9b5ec07f73564af21b8c0bc9f1068d5db74b0f6baede5faa2ce8ed
+DUP-8156,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (127).jpg,Mildly Demented,train,b811bb3f32a64e42092b41d367ee64e85939833d426a7cd084bf37eeeb36ed7d
+DUP-1181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (128).jpg,Mildly Demented,train,1a9d69445a51a5702eb6ef6af0428d7609dec27f50555b09a39c330e8aeabead
+DUP-3394,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (129).jpg,Mildly Demented,train,4c14d6c49a6d1f21f338ee216ec39fcef29f04c2f1f89b02e0ce6b9adba6c5da
+DUP-7349,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (130).jpg,Mildly Demented,train,a71b1de0cd82632f099b2d561f320c153c055a8be7900d08942603de326273f8
+DUP-2281,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (131).jpg,Mildly Demented,train,32dfee30873a68ca53a9c2ef928fb46602960c8c070c599e285fb8d85dafa6bb
+DUP-10681,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (132).jpg,Mildly Demented,train,f0bbcb3d55490183af735afdf0d7dc2cbfc0203876d91c5a59f2ec6d39a5674b
+DUP-3593,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (133).jpg,Mildly Demented,train,509516b3890e403692a87c4d927d0b543cee0e3f9f2ec19264604ba206ee611c
+DUP-9723,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (134).jpg,Mildly Demented,train,db1f32e65c5e96ee5e36098c758243876bb1b47503f352379c2a526509338c27
+DUP-5991,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (135).jpg,Mildly Demented,train,86eec17e02e5226445ee202fc200b458aa00df4524438c91fcf3ae690049df30
+DUP-2256,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (136).jpg,Mildly Demented,train,325da481f089f87b13fe7ffe904c44896cb35bef1627c50afe291857e04358a5
+DUP-3817,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (137).jpg,Mildly Demented,train,561a89ca0f53c1848a92632eda0de9d3a50a033086eac9a79a103d9df574d5a8
+DUP-5874,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (138).jpg,Mildly Demented,train,847339db1599cd572904f3d377d1e05077575a47482b51ee0c53bfa065b0f596
+DUP-9403,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (139).jpg,Mildly Demented,train,d3f1a5e31151940b2d7c6c67fca357d7f34b6e8e11e83ad7e58561b0ce4e8752
+DUP-7181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (140).jpg,Mildly Demented,train,a2d94714e3f6e774bd771674d9b06904fa5dac505c7ce69ea43cfee64bd08fd7
+DUP-3105,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (141).jpg,Mildly Demented,train,4567b678a517469788bf1a85fab40a85ee392147af6b2ea6a61d801a7b878224
+DUP-1393,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (142).jpg,Mildly Demented,train,1edce8712825a207f0aec6e94cb7a40fba453156b0fbfd887d30e042a3a4106f
+DUP-1176,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (143).jpg,Mildly Demented,train,1a75b47e04d87efce57818f8d182747223ada92cade98014da1f128392d72790
+DUP-4803,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (144).jpg,Mildly Demented,train,6c571418448ea564f268ece7269dc0866a5e256f4c91d313ae5ec9f0191ea1ec
+DUP-2093,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (145).jpg,Mildly Demented,train,2ec0dff867f144f80335f946c17d2b16c688392f48bdf50347efbfaae4e4fa29
+DUP-5845,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (146).jpg,Mildly Demented,train,83ee11de0754163b8b9dcd9e1679e516759dec93433fadc89fe5e5ca118f7c5c
+DUP-5485,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (147).jpg,Mildly Demented,train,7bd8c38edecae929337f0051507f8f4646a8e8d3036323f9fd0268931a729f26
+DUP-2181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (148).jpg,Mildly Demented,train,30929e7bed09b20224bacb60248ad80d1c0b323e544d6f1f8f39bd9d0b67ff2c
+DUP-3016,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (149).jpg,Mildly Demented,train,4358bb7dfbd2af712687b49337e5c660c13150fa66197f09ea527c098da5770b
+DUP-3016,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2436).jpg,Mildly Demented,train,4358bb7dfbd2af712687b49337e5c660c13150fa66197f09ea527c098da5770b
+DUP-8585,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2437).jpg,Mildly Demented,train,c1dc5c592b7f19e41bb5af73e45512b64f32173768d071e879cde0e12a09909b
+DUP-1834,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2438).jpg,Mildly Demented,train,28946278cef00275e2823477d48bd30b15034043dc9a781711ae46f351accc5a
+DUP-6783,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2439).jpg,Mildly Demented,train,997022fd2571a18c04b63b446e22e68251e2d51ca286e5340d6202b7bb4bfb3f
+DUP-1555,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2440).jpg,Mildly Demented,train,229fa8266370a5ee5d8435bf820694980446197772ab0d97fdecfcf75e75ada2
+DUP-7812,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2441).jpg,Mildly Demented,train,b0d5c1b13e6ba5c7722a00ee37526e8b12befe6919341315ff4dbf935edd7d6b
+DUP-9582,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2442).jpg,Mildly Demented,train,d7db0b8a31dc25c75caf28460618ee9ca2922340dc7de6f5d7e5fe9261206342
+DUP-10947,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2443).jpg,Mildly Demented,train,f6fd394bbfd4955d1d40a314cd6e50e4c4a26643c22f5f9ad4939dc992b558de
+DUP-3864,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2444).jpg,Mildly Demented,train,570e8eccd06aabad3c37df80a74a59ee7d91bb5fba04c0b5d36a2932753acabf
+DUP-9633,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2445).jpg,Mildly Demented,train,d8e292291742aa373a876ad4639e6b6dfdaa148a75553b86f54c0cf4a7be65c2
+DUP-8556,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2446).jpg,Mildly Demented,train,c11075233765ef1f8bebcc06e656e3ecfae7fba69b11dcc61b9df58be3c525e3
+DUP-703,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2447).jpg,Mildly Demented,train,10091a37dadb2ea8261f1ed9293d72acc916122bfc881a5a8938328c18af116f
+DUP-8649,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2448).jpg,Mildly Demented,train,c32a503642bdd5714c5812c3335b1d226c585477b1a8fb028320eebd4a717360
+DUP-1937,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2449).jpg,Mildly Demented,train,2b1cdd03ffa397f9cba84708468e97d0de51e0cb3843907351483adbc062bab8
+DUP-3688,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2450).jpg,Mildly Demented,train,52ed081ef2707789dfe95f761dca704382a02777664913006da6322d04b278e5
+DUP-8350,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2451).jpg,Mildly Demented,train,bc9c2a8d039c5d09da6ca1ac51c1795d5dc84ca9a269b98fa7a80d538bc29c67
+DUP-918,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2452).jpg,Mildly Demented,train,15142c9f3eedf17fbc90624b0f1b53964251fe271f23fd43e1c401a7879e611a
+DUP-6773,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2453).jpg,Mildly Demented,train,990593c5bfa0612d52fc802cde5730a287f4da974becc4a3e523631937fa07b2
+DUP-2034,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2454).jpg,Mildly Demented,train,2d6788570711d27481ad23046e43c4b0b831df14cd696f9a5c1c859edc15b3f3
+DUP-2550,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2455).jpg,Mildly Demented,train,38f1b53e3d83c72b2279b9d7130660437f485757798bd9ba671645971dabe21f
+DUP-1674,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2456).jpg,Mildly Demented,train,255dcca613317b1dc7f5760e6fc63024a4ea81953d3bc6d5958318199325d21b
+DUP-8813,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2457).jpg,Mildly Demented,train,c67d466aafac5cf74ba314f325b60ded756542dfca51b3af7b64f0cadc392c28
+DUP-1599,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2458).jpg,Mildly Demented,train,23c1ca9649649ca5fee49d9279749b30aa25e2b9cd97406b56033aef87314aac
+DUP-766,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2459).jpg,Mildly Demented,train,11a80dd53b49f8fc0ab9f21d90019697b9184511c37ee3a58c5326443373d160
+DUP-8537,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2460).jpg,Mildly Demented,train,c07786cda6cfbbc794967f5627ade3c1ace68662268284d40ddd924ab70aa759
+DUP-6980,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2461).jpg,Mildly Demented,train,9e1fd78e12fe0a068b35cedfeaff9e56f4f68925ba70a896101233e09cddf7bb
+DUP-3664,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2462).jpg,Mildly Demented,train,527ac80e78491df80fc2b2a306fba322020de60ba3b877a0d128932827d5bfa0
+DUP-6393,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2463).jpg,Mildly Demented,train,907538fd11ff60fd6f7ff6c0030af81b82e2982b4b820a16c2c7daf1f9d1c2d6
+DUP-9391,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2464).jpg,Mildly Demented,train,d39c72c806597f484981ee3853b6442228c7e6ea9ac257ff5f4a1077e83fbc4b
+DUP-8688,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2465).jpg,Mildly Demented,train,c3dae481daceccfbd48a68210236c6b501b06096401b4836e0333e07d9ed9914
+DUP-7794,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2466).jpg,Mildly Demented,train,b09d10a792855ce174eca51d5425515ae8b4a9a40fc510463e422ab04a243446
+DUP-7353,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2467).jpg,Mildly Demented,train,a738582716d66c37a22488af1f0fe541517b9fb61dda525d51c2e70a1823d3e7
+DUP-2739,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2468).jpg,Mildly Demented,train,3d172cbeecae092fa22ccfeb920594427907e9022c6a0eb67855dfb268256cc7
+DUP-9115,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2469).jpg,Mildly Demented,train,cd3cf386b6782b2cad81f53e9e283ff9ba5211d1dd299b156f7ca3e8bed36f8a
+DUP-384,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2470).jpg,Mildly Demented,train,08f8098bc41cbbb5b714a1f75de6a183e6acba02db29dbe6f5cbfec1dbc02a3a
+DUP-3837,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2471).jpg,Mildly Demented,train,5694bd0629dc4c287254ddd5b01102d93af860a9e3d0c5f0ba162b891343faf7
+DUP-8685,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2472).jpg,Mildly Demented,train,c3c7bba655410b41061038f78f65fee6c164590a3358af55baf726b191f17b20
+DUP-5194,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2473).jpg,Mildly Demented,train,756a2c2d99cd37a2fb615bd1fdcdf10a3c9d7e6496b721fa37317c57590e2050
+DUP-9697,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2474).jpg,Mildly Demented,train,da923df1de8135c573f2c28c5f75552b904abfb918cc74e3520a2fb098f1d289
+DUP-11148,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2475).jpg,Mildly Demented,train,fb882e181875f18cd02359633b0e6048f11b8e74ef4e076d39108c67798c247f
+DUP-11011,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2476).jpg,Mildly Demented,train,f891244977a83eb168b582480c72190cca633bace1f5a34ce666c14c44bdea91
+DUP-9252,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2477).jpg,Mildly Demented,train,d0808ae02f68eb765489547dfabe8eaa14667ec6730770c66939c8db5fe9f7f4
+DUP-2220,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2478).jpg,Mildly Demented,train,317c48dff4466eb73b83eff38c4a273660b67c04338fe9de2427d8883a313c17
+DUP-3800,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2479).jpg,Mildly Demented,train,55df41a6db46dbb1c9247e159645e331bfa44ea8ae88be37bcfe8df9808f9b3a
+DUP-3533,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2480).jpg,Mildly Demented,train,4f1e85c5bfd90bd269fbefbd1d08b05e9ff0dc169bcdd0db74f8ba39b6c23e36
+DUP-9793,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2481).jpg,Mildly Demented,train,dcb9cb5c01814d72cb7a2dbd7c9df535ff7a44e2e43e55d72b4d9c7f10efe639
+DUP-8733,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2482).jpg,Mildly Demented,train,c4ab057474d7a0a3afe4a0b3a949326f3c9b45d5894667bf23f71694083f23af
+DUP-1939,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2483).jpg,Mildly Demented,train,2b2a8304a330d0522f1c654f1228943e45ae87ae2351136f76ad80986879bc51
+DUP-3557,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2484).jpg,Mildly Demented,train,4f771e1b64e1d911b2686ea4df46173e20f5883d45ee53fcbf81f0afbf9fecf2
+DUP-2434,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2485).jpg,Mildly Demented,train,366816f871e3108518f1e7aa04c37b02ee33d0f6e7c6695b06037afddee628bb
+DUP-9116,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2486).jpg,Mildly Demented,train,cd3f66da3eee72eeb4b3dd12061dc72cf6c861ac3442a7f423fd291cc3ad721c
+DUP-3717,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2487).jpg,Mildly Demented,train,53b082600845c02f08e0d86f7c6f6f2b90168bce1c86b3091af9a6d86cc7184c
+DUP-4354,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2488).jpg,Mildly Demented,train,621bfd17814df5100931916172122abae0abdbab4f5f0cb4045ea65d1965847a
+DUP-10747,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2489).jpg,Mildly Demented,train,f23ac157093fa44c052fb7962b7c14d27a0f3d9e7efc7691130ffc92722f3d58
+DUP-6040,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2490).jpg,Mildly Demented,train,88833abe3d794af6a13316ff5367c64daf9d81716a5b2f9d7dbfbfba4a02da3d
+DUP-7640,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2491).jpg,Mildly Demented,train,adb14f43ebed0c0f2e3a93a4bf9954147f5099ac1e5e5152a305abac82482a12
+DUP-5470,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2492).jpg,Mildly Demented,train,7b83bdcf33b66f4bf2e9a57c0eacf311686f929da4e1b2c3dfd956022a5dedc4
+DUP-8012,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2493).jpg,Mildly Demented,train,b5003c90049313b383b0c0b05d1226556392ff0e23f63c37d77289e6e74f8884
+DUP-8230,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2494).jpg,Mildly Demented,train,ba22f39fe93e91dc9413336bae70b7d395d2e7403eec9415b7657fc489e46f74
+DUP-1058,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2495).jpg,Mildly Demented,train,17ee2b8cb4a5137cb01b006ed44d913d64d96a1880e7d40605575443c41f34ce
+DUP-232,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2496).jpg,Mildly Demented,train,05a9c1c5881b58c2da7204c002451f5b0bacb283baa56cddec8eb036eddce492
+DUP-9974,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2497).jpg,Mildly Demented,train,e07fdd3c1b77ffd8682ad12002718c90f50181782d71431674c9b8f4485d995c
+DUP-3239,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2498).jpg,Mildly Demented,train,48cad427197969a82160104f66f7419083c206394c95c844a0dbe04f4b3bfa2e
+DUP-6599,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2499).jpg,Mildly Demented,train,9577b5de3b765b1d1147b3dc6d35f2875ea1f58ecf4319177b2c13517635feda
+DUP-8585,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (25).jpg,Mildly Demented,train,c1dc5c592b7f19e41bb5af73e45512b64f32173768d071e879cde0e12a09909b
+DUP-3499,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2500).jpg,Mildly Demented,train,4e23f2132d9f903282d9f44ef32e9069e8bbb13d23e63802982b19afa463f439
+DUP-9124,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2501).jpg,Mildly Demented,train,cd827134e73f1a1c53dcde356d48a46e82ea9e3444243d0f3e07909f051b7449
+DUP-2884,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2502).jpg,Mildly Demented,train,4048bd0612414365caffff0a31ea8adfcce9c9432ca2b01ee4603ef4fef87d4d
+DUP-5067,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2503).jpg,Mildly Demented,train,72947c4a8f070491754a1840dfa73e21a5bf48d88c79f828449b43301c80dc06
+DUP-6106,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2504).jpg,Mildly Demented,train,8a110774b8ae27253f04bbab2e0534366b6124662b0ad2dcc4a066f5be90b423
+DUP-3567,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2505).jpg,Mildly Demented,train,4fe3b15aa4dcfcd884bea077b95ffd1b655cade62659326b54053d2a50243539
+DUP-11141,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2506).jpg,Mildly Demented,train,fb64f3e126f580bb01a803f1f7854c3fe84a7b25100e9ad9ca812521d73a81bd
+DUP-2169,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2507).jpg,Mildly Demented,train,305e61c5ee17d889fa70e4e2db6981477d944c8ce5f66abb59eb35cafcf19478
+DUP-3131,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2508).jpg,Mildly Demented,train,4605c4c27cefbcccdadad182a72a66214811de39138392d4cf4f8c7df2ac7111
+DUP-1306,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2509).jpg,Mildly Demented,train,1d52f73b2fbba02daaf2737d5f5a21bf8e03e353260719101deeed09c99a5f69
+DUP-4606,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2510).jpg,Mildly Demented,train,68792717594d3d4884f78e1a303f75f67138c29949950eb43a8ad6b89f9fd91e
+DUP-8611,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2511).jpg,Mildly Demented,train,c2494601071b9eb9e7742222876868d4a1005288614af58a34f9d21cb50b5ae3
+DUP-7263,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2512).jpg,Mildly Demented,train,a50c26bde2b0b6fca0da32bbf3e84839687e4c3bc8f0b5bebead3174a08405a2
+DUP-123,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2513).jpg,Mildly Demented,train,0359ac4cec1cf86823d0915756f70848d1983ab8de2c56e7c5554ba1a6ee5955
+DUP-9730,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2514).jpg,Mildly Demented,train,db5c741106504b84e6d9d8917867987b995697354cf0168550955141ff2d34b1
+DUP-6176,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2515).jpg,Mildly Demented,train,8b7c01061138f73dcbc14f666eb201cc35f7f9c4ca8fb26ed195cdf917f840cc
+DUP-4233,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2516).jpg,Mildly Demented,train,5f54f6a88c59b7ae4eb6410f7ceb4e4e2023a130c8695d99dac7ae2a602a0f7e
+DUP-8421,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2517).jpg,Mildly Demented,train,be47ac284b1039bffe685f9a759aeb1a427ac53a537a3a9e026f29a2c8423ad8
+DUP-10720,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2518).jpg,Mildly Demented,train,f191ed96fb3fbcc495f0aed56b3c471494eb3f18b660036a317ddcae215dd6a9
+DUP-715,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2519).jpg,Mildly Demented,train,10433711d54ba04ae89dde78c02645a87db5311fe50bc1b8f1388443cb6cdc62
+DUP-1456,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2520).jpg,Mildly Demented,train,203748098b68defbbc873b53d266ea41c7c1041dba3769ea8339be9cd9e82ea8
+DUP-9675,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2521).jpg,Mildly Demented,train,d9fb33962e990c6f2a70ab40c1ecfdcd2f406ab91f4db34d69a6341b9d83d989
+DUP-3543,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2522).jpg,Mildly Demented,train,4f397bc8ea588c554cb1f8eebb278f9325b7f319812e44409b10680dfe8adcf8
+DUP-4797,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2523).jpg,Mildly Demented,train,6c4047426b191f15295b76b199ab25c7167ffe335a338e02ca95809fb929c19f
+DUP-189,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2524).jpg,Mildly Demented,train,04be501b645b051bbeb26d979a8ed89472ee8c95d7d148486edf993747806055
+DUP-8471,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2525).jpg,Mildly Demented,train,bf4b975af1379cedcaa11aa2cb1b151a50dbea2bfbbb8e95a1fb98b707fef6d2
+DUP-7424,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2526).jpg,Mildly Demented,train,a8df9d869dd66d86c302b4c63f77654e0177ac84d5f9c997084cc3178405a28b
+DUP-7050,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2527).jpg,Mildly Demented,train,9f95dd374a0926b6f90754e977ce1786ba5161098709759df0f58fca499d857d
+DUP-5265,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2528).jpg,Mildly Demented,train,76ddde34601e0ab21a2e6000a6930b8f431abfe3264603208d6dd139506e5b08
+DUP-1433,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2529).jpg,Mildly Demented,train,1fa6303f57a8cd935285e5c52267642c9dae0e39855bfebbd718ed889019d0c5
+DUP-838,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2530).jpg,Mildly Demented,train,1372282379952bb0b51f64641175a4600f5135e5389525e0fdc23ab8829ff8ac
+DUP-11162,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2531).jpg,Mildly Demented,train,fbdfc8faae3c520f0f34c7f16a102aa046c81c09b3a6327db5f0908d38554eec
+DUP-6645,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2532).jpg,Mildly Demented,train,967d54a61c6a137c2f006e62c52e471a84f39facbd14eeff6fa7e654eec7bba7
+DUP-586,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2533).jpg,Mildly Demented,train,0d4d4e5b13355d13a25e9ce20eb22e799b0d4ea3895f71f3e0765e942b0a1ea6
+DUP-1467,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2534).jpg,Mildly Demented,train,208c893bd61a7686fb5e07293ad821af994866b58bd8856809e2861fb633dc34
+DUP-8154,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2535).jpg,Mildly Demented,train,b806a66ffd42ca7a51bfb07175ea98b2ac736a1cf99b67f5277a500d463648ea
+DUP-8590,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2536).jpg,Mildly Demented,train,c1f4765ff83e3ba2f2ce470400e37d2f2333e16f7f3f677d7121fe37f84e73aa
+DUP-5932,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2537).jpg,Mildly Demented,train,85adc7e8621abde63ee9a5d2b9e7a61745cfa99ab84da4889adfbdc71d899438
+DUP-8352,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2538).jpg,Mildly Demented,train,bcaafe49ce9b5ec07f73564af21b8c0bc9f1068d5db74b0f6baede5faa2ce8ed
+DUP-8156,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2539).jpg,Mildly Demented,train,b811bb3f32a64e42092b41d367ee64e85939833d426a7cd084bf37eeeb36ed7d
+DUP-1181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2540).jpg,Mildly Demented,train,1a9d69445a51a5702eb6ef6af0428d7609dec27f50555b09a39c330e8aeabead
+DUP-3394,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2541).jpg,Mildly Demented,train,4c14d6c49a6d1f21f338ee216ec39fcef29f04c2f1f89b02e0ce6b9adba6c5da
+DUP-7349,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2542).jpg,Mildly Demented,train,a71b1de0cd82632f099b2d561f320c153c055a8be7900d08942603de326273f8
+DUP-2281,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2543).jpg,Mildly Demented,train,32dfee30873a68ca53a9c2ef928fb46602960c8c070c599e285fb8d85dafa6bb
+DUP-10681,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2544).jpg,Mildly Demented,train,f0bbcb3d55490183af735afdf0d7dc2cbfc0203876d91c5a59f2ec6d39a5674b
+DUP-3593,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2545).jpg,Mildly Demented,train,509516b3890e403692a87c4d927d0b543cee0e3f9f2ec19264604ba206ee611c
+DUP-9723,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2546).jpg,Mildly Demented,train,db1f32e65c5e96ee5e36098c758243876bb1b47503f352379c2a526509338c27
+DUP-5991,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2547).jpg,Mildly Demented,train,86eec17e02e5226445ee202fc200b458aa00df4524438c91fcf3ae690049df30
+DUP-2256,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2548).jpg,Mildly Demented,train,325da481f089f87b13fe7ffe904c44896cb35bef1627c50afe291857e04358a5
+DUP-3817,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2549).jpg,Mildly Demented,train,561a89ca0f53c1848a92632eda0de9d3a50a033086eac9a79a103d9df574d5a8
+DUP-5874,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2550).jpg,Mildly Demented,train,847339db1599cd572904f3d377d1e05077575a47482b51ee0c53bfa065b0f596
+DUP-9403,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2551).jpg,Mildly Demented,train,d3f1a5e31151940b2d7c6c67fca357d7f34b6e8e11e83ad7e58561b0ce4e8752
+DUP-7181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2552).jpg,Mildly Demented,train,a2d94714e3f6e774bd771674d9b06904fa5dac505c7ce69ea43cfee64bd08fd7
+DUP-3105,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2553).jpg,Mildly Demented,train,4567b678a517469788bf1a85fab40a85ee392147af6b2ea6a61d801a7b878224
+DUP-1393,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2554).jpg,Mildly Demented,train,1edce8712825a207f0aec6e94cb7a40fba453156b0fbfd887d30e042a3a4106f
+DUP-1176,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2555).jpg,Mildly Demented,train,1a75b47e04d87efce57818f8d182747223ada92cade98014da1f128392d72790
+DUP-4803,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2556).jpg,Mildly Demented,train,6c571418448ea564f268ece7269dc0866a5e256f4c91d313ae5ec9f0191ea1ec
+DUP-2093,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2557).jpg,Mildly Demented,train,2ec0dff867f144f80335f946c17d2b16c688392f48bdf50347efbfaae4e4fa29
+DUP-5845,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2558).jpg,Mildly Demented,train,83ee11de0754163b8b9dcd9e1679e516759dec93433fadc89fe5e5ca118f7c5c
+DUP-5485,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2559).jpg,Mildly Demented,train,7bd8c38edecae929337f0051507f8f4646a8e8d3036323f9fd0268931a729f26
+DUP-2181,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (2560).jpg,Mildly Demented,train,30929e7bed09b20224bacb60248ad80d1c0b323e544d6f1f8f39bd9d0b67ff2c
+DUP-1834,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (26).jpg,Mildly Demented,train,28946278cef00275e2823477d48bd30b15034043dc9a781711ae46f351accc5a
+DUP-6783,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (27).jpg,Mildly Demented,train,997022fd2571a18c04b63b446e22e68251e2d51ca286e5340d6202b7bb4bfb3f
+DUP-1555,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (28).jpg,Mildly Demented,train,229fa8266370a5ee5d8435bf820694980446197772ab0d97fdecfcf75e75ada2
+DUP-7812,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (29).jpg,Mildly Demented,train,b0d5c1b13e6ba5c7722a00ee37526e8b12befe6919341315ff4dbf935edd7d6b
+DUP-9582,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (30).jpg,Mildly Demented,train,d7db0b8a31dc25c75caf28460618ee9ca2922340dc7de6f5d7e5fe9261206342
+DUP-10947,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (31).jpg,Mildly Demented,train,f6fd394bbfd4955d1d40a314cd6e50e4c4a26643c22f5f9ad4939dc992b558de
+DUP-3864,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (32).jpg,Mildly Demented,train,570e8eccd06aabad3c37df80a74a59ee7d91bb5fba04c0b5d36a2932753acabf
+DUP-9633,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (33).jpg,Mildly Demented,train,d8e292291742aa373a876ad4639e6b6dfdaa148a75553b86f54c0cf4a7be65c2
+DUP-8556,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (34).jpg,Mildly Demented,train,c11075233765ef1f8bebcc06e656e3ecfae7fba69b11dcc61b9df58be3c525e3
+DUP-703,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (35).jpg,Mildly Demented,train,10091a37dadb2ea8261f1ed9293d72acc916122bfc881a5a8938328c18af116f
+DUP-8649,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (36).jpg,Mildly Demented,train,c32a503642bdd5714c5812c3335b1d226c585477b1a8fb028320eebd4a717360
+DUP-1937,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (37).jpg,Mildly Demented,train,2b1cdd03ffa397f9cba84708468e97d0de51e0cb3843907351483adbc062bab8
+DUP-3688,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (38).jpg,Mildly Demented,train,52ed081ef2707789dfe95f761dca704382a02777664913006da6322d04b278e5
+DUP-8350,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (39).jpg,Mildly Demented,train,bc9c2a8d039c5d09da6ca1ac51c1795d5dc84ca9a269b98fa7a80d538bc29c67
+DUP-918,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (40).jpg,Mildly Demented,train,15142c9f3eedf17fbc90624b0f1b53964251fe271f23fd43e1c401a7879e611a
+DUP-6773,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (41).jpg,Mildly Demented,train,990593c5bfa0612d52fc802cde5730a287f4da974becc4a3e523631937fa07b2
+DUP-2034,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (42).jpg,Mildly Demented,train,2d6788570711d27481ad23046e43c4b0b831df14cd696f9a5c1c859edc15b3f3
+DUP-2550,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (43).jpg,Mildly Demented,train,38f1b53e3d83c72b2279b9d7130660437f485757798bd9ba671645971dabe21f
+DUP-1674,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (44).jpg,Mildly Demented,train,255dcca613317b1dc7f5760e6fc63024a4ea81953d3bc6d5958318199325d21b
+DUP-8813,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (45).jpg,Mildly Demented,train,c67d466aafac5cf74ba314f325b60ded756542dfca51b3af7b64f0cadc392c28
+DUP-1599,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (46).jpg,Mildly Demented,train,23c1ca9649649ca5fee49d9279749b30aa25e2b9cd97406b56033aef87314aac
+DUP-766,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (47).jpg,Mildly Demented,train,11a80dd53b49f8fc0ab9f21d90019697b9184511c37ee3a58c5326443373d160
+DUP-8537,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (48).jpg,Mildly Demented,train,c07786cda6cfbbc794967f5627ade3c1ace68662268284d40ddd924ab70aa759
+DUP-6980,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (49).jpg,Mildly Demented,train,9e1fd78e12fe0a068b35cedfeaff9e56f4f68925ba70a896101233e09cddf7bb
+DUP-3664,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (50).jpg,Mildly Demented,train,527ac80e78491df80fc2b2a306fba322020de60ba3b877a0d128932827d5bfa0
+DUP-6393,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (51).jpg,Mildly Demented,train,907538fd11ff60fd6f7ff6c0030af81b82e2982b4b820a16c2c7daf1f9d1c2d6
+DUP-9391,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (52).jpg,Mildly Demented,train,d39c72c806597f484981ee3853b6442228c7e6ea9ac257ff5f4a1077e83fbc4b
+DUP-8688,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (53).jpg,Mildly Demented,train,c3dae481daceccfbd48a68210236c6b501b06096401b4836e0333e07d9ed9914
+DUP-7794,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (54).jpg,Mildly Demented,train,b09d10a792855ce174eca51d5425515ae8b4a9a40fc510463e422ab04a243446
+DUP-7353,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (55).jpg,Mildly Demented,train,a738582716d66c37a22488af1f0fe541517b9fb61dda525d51c2e70a1823d3e7
+DUP-2739,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (56).jpg,Mildly Demented,train,3d172cbeecae092fa22ccfeb920594427907e9022c6a0eb67855dfb268256cc7
+DUP-9115,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (57).jpg,Mildly Demented,train,cd3cf386b6782b2cad81f53e9e283ff9ba5211d1dd299b156f7ca3e8bed36f8a
+DUP-384,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (58).jpg,Mildly Demented,train,08f8098bc41cbbb5b714a1f75de6a183e6acba02db29dbe6f5cbfec1dbc02a3a
+DUP-3837,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (59).jpg,Mildly Demented,train,5694bd0629dc4c287254ddd5b01102d93af860a9e3d0c5f0ba162b891343faf7
+DUP-8685,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (60).jpg,Mildly Demented,train,c3c7bba655410b41061038f78f65fee6c164590a3358af55baf726b191f17b20
+DUP-5194,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (61).jpg,Mildly Demented,train,756a2c2d99cd37a2fb615bd1fdcdf10a3c9d7e6496b721fa37317c57590e2050
+DUP-9697,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (62).jpg,Mildly Demented,train,da923df1de8135c573f2c28c5f75552b904abfb918cc74e3520a2fb098f1d289
+DUP-11148,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (63).jpg,Mildly Demented,train,fb882e181875f18cd02359633b0e6048f11b8e74ef4e076d39108c67798c247f
+DUP-11011,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (64).jpg,Mildly Demented,train,f891244977a83eb168b582480c72190cca633bace1f5a34ce666c14c44bdea91
+DUP-9252,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (65).jpg,Mildly Demented,train,d0808ae02f68eb765489547dfabe8eaa14667ec6730770c66939c8db5fe9f7f4
+DUP-2220,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (66).jpg,Mildly Demented,train,317c48dff4466eb73b83eff38c4a273660b67c04338fe9de2427d8883a313c17
+DUP-3800,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (67).jpg,Mildly Demented,train,55df41a6db46dbb1c9247e159645e331bfa44ea8ae88be37bcfe8df9808f9b3a
+DUP-3533,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (68).jpg,Mildly Demented,train,4f1e85c5bfd90bd269fbefbd1d08b05e9ff0dc169bcdd0db74f8ba39b6c23e36
+DUP-9793,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (69).jpg,Mildly Demented,train,dcb9cb5c01814d72cb7a2dbd7c9df535ff7a44e2e43e55d72b4d9c7f10efe639
+DUP-8733,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (70).jpg,Mildly Demented,train,c4ab057474d7a0a3afe4a0b3a949326f3c9b45d5894667bf23f71694083f23af
+DUP-1939,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (71).jpg,Mildly Demented,train,2b2a8304a330d0522f1c654f1228943e45ae87ae2351136f76ad80986879bc51
+DUP-3557,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (72).jpg,Mildly Demented,train,4f771e1b64e1d911b2686ea4df46173e20f5883d45ee53fcbf81f0afbf9fecf2
+DUP-2434,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (73).jpg,Mildly Demented,train,366816f871e3108518f1e7aa04c37b02ee33d0f6e7c6695b06037afddee628bb
+DUP-9116,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (74).jpg,Mildly Demented,train,cd3f66da3eee72eeb4b3dd12061dc72cf6c861ac3442a7f423fd291cc3ad721c
+DUP-3717,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (75).jpg,Mildly Demented,train,53b082600845c02f08e0d86f7c6f6f2b90168bce1c86b3091af9a6d86cc7184c
+DUP-4354,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (76).jpg,Mildly Demented,train,621bfd17814df5100931916172122abae0abdbab4f5f0cb4045ea65d1965847a
+DUP-10747,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (77).jpg,Mildly Demented,train,f23ac157093fa44c052fb7962b7c14d27a0f3d9e7efc7691130ffc92722f3d58
+DUP-6040,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (78).jpg,Mildly Demented,train,88833abe3d794af6a13316ff5367c64daf9d81716a5b2f9d7dbfbfba4a02da3d
+DUP-7640,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (79).jpg,Mildly Demented,train,adb14f43ebed0c0f2e3a93a4bf9954147f5099ac1e5e5152a305abac82482a12
+DUP-5470,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (80).jpg,Mildly Demented,train,7b83bdcf33b66f4bf2e9a57c0eacf311686f929da4e1b2c3dfd956022a5dedc4
+DUP-8012,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (81).jpg,Mildly Demented,train,b5003c90049313b383b0c0b05d1226556392ff0e23f63c37d77289e6e74f8884
+DUP-8230,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (82).jpg,Mildly Demented,train,ba22f39fe93e91dc9413336bae70b7d395d2e7403eec9415b7657fc489e46f74
+DUP-1058,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (83).jpg,Mildly Demented,train,17ee2b8cb4a5137cb01b006ed44d913d64d96a1880e7d40605575443c41f34ce
+DUP-232,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (84).jpg,Mildly Demented,train,05a9c1c5881b58c2da7204c002451f5b0bacb283baa56cddec8eb036eddce492
+DUP-9974,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (85).jpg,Mildly Demented,train,e07fdd3c1b77ffd8682ad12002718c90f50181782d71431674c9b8f4485d995c
+DUP-3239,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (86).jpg,Mildly Demented,train,48cad427197969a82160104f66f7419083c206394c95c844a0dbe04f4b3bfa2e
+DUP-6599,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (87).jpg,Mildly Demented,train,9577b5de3b765b1d1147b3dc6d35f2875ea1f58ecf4319177b2c13517635feda
+DUP-3499,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (88).jpg,Mildly Demented,train,4e23f2132d9f903282d9f44ef32e9069e8bbb13d23e63802982b19afa463f439
+DUP-9124,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (89).jpg,Mildly Demented,train,cd827134e73f1a1c53dcde356d48a46e82ea9e3444243d0f3e07909f051b7449
+DUP-2884,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (90).jpg,Mildly Demented,train,4048bd0612414365caffff0a31ea8adfcce9c9432ca2b01ee4603ef4fef87d4d
+DUP-5067,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (91).jpg,Mildly Demented,train,72947c4a8f070491754a1840dfa73e21a5bf48d88c79f828449b43301c80dc06
+DUP-6106,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (92).jpg,Mildly Demented,train,8a110774b8ae27253f04bbab2e0534366b6124662b0ad2dcc4a066f5be90b423
+DUP-3567,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (93).jpg,Mildly Demented,train,4fe3b15aa4dcfcd884bea077b95ffd1b655cade62659326b54053d2a50243539
+DUP-11141,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (94).jpg,Mildly Demented,train,fb64f3e126f580bb01a803f1f7854c3fe84a7b25100e9ad9ca812521d73a81bd
+DUP-2169,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (95).jpg,Mildly Demented,train,305e61c5ee17d889fa70e4e2db6981477d944c8ce5f66abb59eb35cafcf19478
+DUP-3131,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (96).jpg,Mildly Demented,train,4605c4c27cefbcccdadad182a72a66214811de39138392d4cf4f8c7df2ac7111
+DUP-1306,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (97).jpg,Mildly Demented,train,1d52f73b2fbba02daaf2737d5f5a21bf8e03e353260719101deeed09c99a5f69
+DUP-4606,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (98).jpg,Mildly Demented,train,68792717594d3d4884f78e1a303f75f67138c29949950eb43a8ad6b89f9fd91e
+DUP-8611,data/mri/raw/Combined Dataset/train/Mild Impairment/MildImpairment (99).jpg,Mildly Demented,train,c2494601071b9eb9e7742222876868d4a1005288614af58a34f9d21cb50b5ae3
+DUP-2654,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1153).jpg,Very Mildly Demented,train,3b6594113c756fe696538c103970847bb6bd6469c3712ec7ad60151bf6477b3a
+DUP-8617,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1174).jpg,Very Mildly Demented,train,c2794f617027f38366643bea94f0f222b0f3e1c554f547a7aa272823252018b8
+DUP-10242,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1177).jpg,Very Mildly Demented,train,e69b29b0bce66bf0d18d2efbcf8b7e41023f140c7515df647841af4005758212
+DUP-4130,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1187).jpg,Very Mildly Demented,train,5d5a75bcdf948e6e2c0bd67ae7135f165172cc9884379f64e782523d45e1d062
+DUP-6204,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1213).jpg,Very Mildly Demented,train,8c20f5436ec833205031f0e6de5e6486992967a30e2599203b195c1caf4118ce
+DUP-10660,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1228).jpg,Very Mildly Demented,train,f02ad9f56b9ab493b556b55c525e006eae09436c60c66f82a6656608fa881ff0
+DUP-9977,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1236).jpg,Very Mildly Demented,train,e08ba0c2cf94b66e7e235baffb5cac412adb743aae68e5a7d6afbe5fab5cad01
+DUP-5454,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1242).jpg,Very Mildly Demented,train,7b20b985958ed8150ff185317d12b28a93f49acf6481ca18514043026b2920f4
+DUP-9179,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1269).jpg,Very Mildly Demented,train,cec4280914208555b0de84fb9b341b4402b2e30d62ceb3e890d7b24d970462f8
+DUP-7243,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1287).jpg,Very Mildly Demented,train,a4a383cd996aff4ef966cf8fc31c507a71044d359a9bc6d1c0e35fcba1b759c7
+DUP-6427,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1292).jpg,Very Mildly Demented,train,915e7e27d39a8003208bfe116b462151442ada4c7e0f5b505f5f2986d544b746
+DUP-778,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1309).jpg,Very Mildly Demented,train,11f293de2b863d833d20def7f393c22f55e9ffb8981da1a58b94768f029be21d
+DUP-5085,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1323).jpg,Very Mildly Demented,train,72de3eea9cf785998e1f442fabbc30bec567f33bea2fe3b108c6409e3540afd0
+DUP-1994,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1345).jpg,Very Mildly Demented,train,2c7af6399ac827b98e870381261171410a1b42c75c18cbefaf8b40ae1912a166
+DUP-7963,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1348).jpg,Very Mildly Demented,train,b44a73a39dc695f18c2a5626072336a8c3dd7bd9f0dd578d3e9163c4a7452f01
+DUP-7694,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1356).jpg,Very Mildly Demented,train,aeb12c77616bd2bedf63fd179b4218301b207facaf10d420eb3c9e3749218aaa
+DUP-9178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1358).jpg,Very Mildly Demented,train,ceb6c610b55103eae89f4ddfce40f45348fb229faa2528ad2dcc10d260cb039a
+DUP-9278,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1374).jpg,Very Mildly Demented,train,d0f536b107feac1399c6411058ad10fcab6ec456f33028d8265053360080fda7
+DUP-2459,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1376).jpg,Very Mildly Demented,train,36d29ea300b6ba1079d24c4f0be14fcedac3f215021b329dc8764d43163f86ec
+DUP-2250,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1393).jpg,Very Mildly Demented,train,32373a422e4281efa4dc8d246fac1f66de386a854a62e93a5cc944e7610a056d
+DUP-5315,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1401).jpg,Very Mildly Demented,train,78082119deb9e9ca494d020b0df03ca28b099929a12197335e6f0ad8a8a7e483
+DUP-2316,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1432).jpg,Very Mildly Demented,train,33abd61fdfa3f31acb43d34cf2d867aab80a3d39fe58f893b2f5aecfc8d8d59d
+DUP-2178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1444).jpg,Very Mildly Demented,train,3087b59618d82c22fc613cd7e40d4d9c516a2bcc082890102379e371ce73a398
+DUP-9751,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1451).jpg,Very Mildly Demented,train,dbd69bba1b6dde9a01ce6bcb3dd238ad37c1286f60218c3affed12b16c226bf4
+DUP-6436,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1487).jpg,Very Mildly Demented,train,9187fe1d15ea466ec500dbec832ff3d96c25dbafa98eb0db8b00a6050c0976ff
+DUP-3607,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1507).jpg,Very Mildly Demented,train,50cc145648ed534ec26f89e820fed3947118657e7b8599a11ef118a1e353b026
+DUP-11239,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1510).jpg,Very Mildly Demented,train,fd9d1c7d81de8917e1da256d51b42f5f5e50a34193c9a8fe36a9710908766948
+DUP-1997,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1523).jpg,Very Mildly Demented,train,2c86452a750d0c04138d9ce046338b86c24825aca046528ecb8c957edb1926cc
+DUP-1736,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1546).jpg,Very Mildly Demented,train,2692dd53de21adce81b5ca41d93e7d6deb013f75f377a91c5b82997a8daa2b0d
+DUP-3625,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1553).jpg,Very Mildly Demented,train,518afee8ba02331dd81f35877c1b4b04aa134de28b814dcded3029af30f5ba4a
+DUP-10981,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1558).jpg,Very Mildly Demented,train,f7fab7f24b20509044d6761dbb6fd241cbe1e32b5b9f62eb4c0f76104b4979ed
+DUP-8204,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1562).jpg,Very Mildly Demented,train,b96f83746fce5870a33beb16d991a181d03c91a82809f5014e040cb6d8441d9d
+DUP-5747,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1564).jpg,Very Mildly Demented,train,81d266900c4dc215288e70241d87e22ff934172865efda0a0b49933eabf3695a
+DUP-4940,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1565).jpg,Very Mildly Demented,train,6f7a48f7096808e6306af541a07ae9e9b2fcf31d42be714e703691e7706516b1
+DUP-7727,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1567).jpg,Very Mildly Demented,train,af6c771474fca4b96e5d5fbee71673588f22684ca8ba2070eda93d76fbc9df68
+DUP-3416,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1571).jpg,Very Mildly Demented,train,4c898420fb87414cbf67e7fd51629913b05597ee73dbce3e6d5c16dd1aac2600
+DUP-11098,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1582).jpg,Very Mildly Demented,train,fa8a0d635bfaf9797e5cbb51b24722543c2e5d7d43db3a3047ce0f533aca32b7
+DUP-9017,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1588).jpg,Very Mildly Demented,train,cb42eec2919f027678d27f23c6fa81d5842c90b3045aee20ba31aa5f044069b7
+DUP-6339,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1607).jpg,Very Mildly Demented,train,8ef84cc8239ad151c93bb7fa7f85042f5ec9da41c114500525751266062f18ba
+DUP-2067,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1608).jpg,Very Mildly Demented,train,2e08bc9a2ec4142134c0bd2f73f6b93847ab5c08f1e7f354bd25e34a61df9e86
+DUP-4855,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1617).jpg,Very Mildly Demented,train,6d9723fe35561466d1c20ad9e96a060d1a21c75991e50dc2ae0ecd18c1864a99
+DUP-9593,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1630).jpg,Very Mildly Demented,train,d80b6e015ea7d03fd023c55a923093b4e4c9ce857914018358b0e6997dbbeb4e
+DUP-3310,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1637).jpg,Very Mildly Demented,train,4a5133fc168c72e6fb01114cec07494817ea330c10481b7f23b04cf27a51ff1a
+DUP-10369,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1640).jpg,Very Mildly Demented,train,e99aa42cb419d52a96513095185ea29291d1fc06113199e9bd905c5c2576eff0
+DUP-426,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1645).jpg,Very Mildly Demented,train,09db32134393e120b3c5d290e7e50fef769a1b0042a8f43854a4e3752458bc52
+DUP-5861,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1666).jpg,Very Mildly Demented,train,84458f696e56f7e2638f946e3e8fa3742efbe23aff3b4c22326974621c99f611
+DUP-9235,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1671).jpg,Very Mildly Demented,train,d014a9672142b41ecebd39cb8113aa2821ea7b3bb33f665366d00ec27d82f335
+DUP-7724,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1691).jpg,Very Mildly Demented,train,af660d7b7f8bff8fd271a6c310c0711abf7e73f3fc5aebd48e78a91bba8e9b06
+DUP-8791,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1694).jpg,Very Mildly Demented,train,c5f47b7296ecbdf70110a04d41ec45972ebb0dc6c874912af4add42b34bec316
+DUP-5483,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1715).jpg,Very Mildly Demented,train,7bc24d949004421c2d23a3acfd698afcf204b6e98e4470e55e332fb7ac65e7fb
+DUP-149,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1726).jpg,Very Mildly Demented,train,03f30e0046b18201feefea47e59b65e3d605e713dd9b9e087eac1b12882510fd
+DUP-10444,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1733).jpg,Very Mildly Demented,train,eb5bc0795934edc113396021a7f6ae2f17f69116e8131e0449fd9e9d08eef60a
+DUP-3178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1736).jpg,Very Mildly Demented,train,4732f21fdbd3a67916e86a9e9949e0b233aee958282a0fe7a0e7411e62d0d521
+DUP-8440,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1752).jpg,Very Mildly Demented,train,beac1680bbd5ed1d49d2d1d9e57e23fdce4d5e6d3121cb3136f92755e6a6a9c4
+DUP-3856,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1773).jpg,Very Mildly Demented,train,56eb9b989c96c606c1f8a5d605fa543dce0dc7e28d619fd100e1e63c38cdfc52
+DUP-9946,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1781).jpg,Very Mildly Demented,train,dfe16d131f44e39ebf0ca547df7ce296d041d4fd21973038ac0a355ab3d705e1
+DUP-708,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (1791).jpg,Very Mildly Demented,train,1029fc16188f5497ed5d8890ee735fbf1f472595731c6a497c167daf2476d0a5
+DUP-708,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2455).jpg,Very Mildly Demented,train,1029fc16188f5497ed5d8890ee735fbf1f472595731c6a497c167daf2476d0a5
+DUP-2654,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2456).jpg,Very Mildly Demented,train,3b6594113c756fe696538c103970847bb6bd6469c3712ec7ad60151bf6477b3a
+DUP-8617,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2457).jpg,Very Mildly Demented,train,c2794f617027f38366643bea94f0f222b0f3e1c554f547a7aa272823252018b8
+DUP-10242,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2458).jpg,Very Mildly Demented,train,e69b29b0bce66bf0d18d2efbcf8b7e41023f140c7515df647841af4005758212
+DUP-4130,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2459).jpg,Very Mildly Demented,train,5d5a75bcdf948e6e2c0bd67ae7135f165172cc9884379f64e782523d45e1d062
+DUP-6204,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2460).jpg,Very Mildly Demented,train,8c20f5436ec833205031f0e6de5e6486992967a30e2599203b195c1caf4118ce
+DUP-10660,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2461).jpg,Very Mildly Demented,train,f02ad9f56b9ab493b556b55c525e006eae09436c60c66f82a6656608fa881ff0
+DUP-9977,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2462).jpg,Very Mildly Demented,train,e08ba0c2cf94b66e7e235baffb5cac412adb743aae68e5a7d6afbe5fab5cad01
+DUP-5454,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2463).jpg,Very Mildly Demented,train,7b20b985958ed8150ff185317d12b28a93f49acf6481ca18514043026b2920f4
+DUP-9179,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2464).jpg,Very Mildly Demented,train,cec4280914208555b0de84fb9b341b4402b2e30d62ceb3e890d7b24d970462f8
+DUP-7243,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2465).jpg,Very Mildly Demented,train,a4a383cd996aff4ef966cf8fc31c507a71044d359a9bc6d1c0e35fcba1b759c7
+DUP-6427,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2466).jpg,Very Mildly Demented,train,915e7e27d39a8003208bfe116b462151442ada4c7e0f5b505f5f2986d544b746
+DUP-778,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2467).jpg,Very Mildly Demented,train,11f293de2b863d833d20def7f393c22f55e9ffb8981da1a58b94768f029be21d
+DUP-5085,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2468).jpg,Very Mildly Demented,train,72de3eea9cf785998e1f442fabbc30bec567f33bea2fe3b108c6409e3540afd0
+DUP-1994,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2469).jpg,Very Mildly Demented,train,2c7af6399ac827b98e870381261171410a1b42c75c18cbefaf8b40ae1912a166
+DUP-7963,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2470).jpg,Very Mildly Demented,train,b44a73a39dc695f18c2a5626072336a8c3dd7bd9f0dd578d3e9163c4a7452f01
+DUP-7694,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2471).jpg,Very Mildly Demented,train,aeb12c77616bd2bedf63fd179b4218301b207facaf10d420eb3c9e3749218aaa
+DUP-9178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2472).jpg,Very Mildly Demented,train,ceb6c610b55103eae89f4ddfce40f45348fb229faa2528ad2dcc10d260cb039a
+DUP-9278,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2473).jpg,Very Mildly Demented,train,d0f536b107feac1399c6411058ad10fcab6ec456f33028d8265053360080fda7
+DUP-2459,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2474).jpg,Very Mildly Demented,train,36d29ea300b6ba1079d24c4f0be14fcedac3f215021b329dc8764d43163f86ec
+DUP-2250,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2475).jpg,Very Mildly Demented,train,32373a422e4281efa4dc8d246fac1f66de386a854a62e93a5cc944e7610a056d
+DUP-5315,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2476).jpg,Very Mildly Demented,train,78082119deb9e9ca494d020b0df03ca28b099929a12197335e6f0ad8a8a7e483
+DUP-2316,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2477).jpg,Very Mildly Demented,train,33abd61fdfa3f31acb43d34cf2d867aab80a3d39fe58f893b2f5aecfc8d8d59d
+DUP-2178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2478).jpg,Very Mildly Demented,train,3087b59618d82c22fc613cd7e40d4d9c516a2bcc082890102379e371ce73a398
+DUP-9751,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2479).jpg,Very Mildly Demented,train,dbd69bba1b6dde9a01ce6bcb3dd238ad37c1286f60218c3affed12b16c226bf4
+DUP-6436,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2480).jpg,Very Mildly Demented,train,9187fe1d15ea466ec500dbec832ff3d96c25dbafa98eb0db8b00a6050c0976ff
+DUP-3607,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2481).jpg,Very Mildly Demented,train,50cc145648ed534ec26f89e820fed3947118657e7b8599a11ef118a1e353b026
+DUP-11239,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2482).jpg,Very Mildly Demented,train,fd9d1c7d81de8917e1da256d51b42f5f5e50a34193c9a8fe36a9710908766948
+DUP-1997,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2483).jpg,Very Mildly Demented,train,2c86452a750d0c04138d9ce046338b86c24825aca046528ecb8c957edb1926cc
+DUP-1736,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2484).jpg,Very Mildly Demented,train,2692dd53de21adce81b5ca41d93e7d6deb013f75f377a91c5b82997a8daa2b0d
+DUP-3625,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2485).jpg,Very Mildly Demented,train,518afee8ba02331dd81f35877c1b4b04aa134de28b814dcded3029af30f5ba4a
+DUP-10981,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2486).jpg,Very Mildly Demented,train,f7fab7f24b20509044d6761dbb6fd241cbe1e32b5b9f62eb4c0f76104b4979ed
+DUP-8204,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2487).jpg,Very Mildly Demented,train,b96f83746fce5870a33beb16d991a181d03c91a82809f5014e040cb6d8441d9d
+DUP-5747,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2488).jpg,Very Mildly Demented,train,81d266900c4dc215288e70241d87e22ff934172865efda0a0b49933eabf3695a
+DUP-4940,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2489).jpg,Very Mildly Demented,train,6f7a48f7096808e6306af541a07ae9e9b2fcf31d42be714e703691e7706516b1
+DUP-7727,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2490).jpg,Very Mildly Demented,train,af6c771474fca4b96e5d5fbee71673588f22684ca8ba2070eda93d76fbc9df68
+DUP-3416,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2491).jpg,Very Mildly Demented,train,4c898420fb87414cbf67e7fd51629913b05597ee73dbce3e6d5c16dd1aac2600
+DUP-11098,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2492).jpg,Very Mildly Demented,train,fa8a0d635bfaf9797e5cbb51b24722543c2e5d7d43db3a3047ce0f533aca32b7
+DUP-9017,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2493).jpg,Very Mildly Demented,train,cb42eec2919f027678d27f23c6fa81d5842c90b3045aee20ba31aa5f044069b7
+DUP-6339,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2494).jpg,Very Mildly Demented,train,8ef84cc8239ad151c93bb7fa7f85042f5ec9da41c114500525751266062f18ba
+DUP-2067,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2495).jpg,Very Mildly Demented,train,2e08bc9a2ec4142134c0bd2f73f6b93847ab5c08f1e7f354bd25e34a61df9e86
+DUP-4855,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2496).jpg,Very Mildly Demented,train,6d9723fe35561466d1c20ad9e96a060d1a21c75991e50dc2ae0ecd18c1864a99
+DUP-9593,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2497).jpg,Very Mildly Demented,train,d80b6e015ea7d03fd023c55a923093b4e4c9ce857914018358b0e6997dbbeb4e
+DUP-3310,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2498).jpg,Very Mildly Demented,train,4a5133fc168c72e6fb01114cec07494817ea330c10481b7f23b04cf27a51ff1a
+DUP-10369,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2499).jpg,Very Mildly Demented,train,e99aa42cb419d52a96513095185ea29291d1fc06113199e9bd905c5c2576eff0
+DUP-426,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2500).jpg,Very Mildly Demented,train,09db32134393e120b3c5d290e7e50fef769a1b0042a8f43854a4e3752458bc52
+DUP-5861,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2501).jpg,Very Mildly Demented,train,84458f696e56f7e2638f946e3e8fa3742efbe23aff3b4c22326974621c99f611
+DUP-9235,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2502).jpg,Very Mildly Demented,train,d014a9672142b41ecebd39cb8113aa2821ea7b3bb33f665366d00ec27d82f335
+DUP-7724,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2503).jpg,Very Mildly Demented,train,af660d7b7f8bff8fd271a6c310c0711abf7e73f3fc5aebd48e78a91bba8e9b06
+DUP-8791,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2504).jpg,Very Mildly Demented,train,c5f47b7296ecbdf70110a04d41ec45972ebb0dc6c874912af4add42b34bec316
+DUP-5483,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2505).jpg,Very Mildly Demented,train,7bc24d949004421c2d23a3acfd698afcf204b6e98e4470e55e332fb7ac65e7fb
+DUP-149,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2506).jpg,Very Mildly Demented,train,03f30e0046b18201feefea47e59b65e3d605e713dd9b9e087eac1b12882510fd
+DUP-10444,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2507).jpg,Very Mildly Demented,train,eb5bc0795934edc113396021a7f6ae2f17f69116e8131e0449fd9e9d08eef60a
+DUP-3178,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2508).jpg,Very Mildly Demented,train,4732f21fdbd3a67916e86a9e9949e0b233aee958282a0fe7a0e7411e62d0d521
+DUP-8440,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2509).jpg,Very Mildly Demented,train,beac1680bbd5ed1d49d2d1d9e57e23fdce4d5e6d3121cb3136f92755e6a6a9c4
+DUP-3856,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2510).jpg,Very Mildly Demented,train,56eb9b989c96c606c1f8a5d605fa543dce0dc7e28d619fd100e1e63c38cdfc52
+DUP-9946,data/mri/raw/Combined Dataset/train/Very Mild Impairment/VeryMildImpairment (2511).jpg,Very Mildly Demented,train,dfe16d131f44e39ebf0ca547df7ce296d041d4fd21973038ac0a355ab3d705e1
